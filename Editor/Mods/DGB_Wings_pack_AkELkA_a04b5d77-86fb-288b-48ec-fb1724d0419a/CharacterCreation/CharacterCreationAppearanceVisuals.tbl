@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3b034ae3-d260-4a73-b10f-9e954489d19d">
+  <stat_objects>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2a582464-3009-4ebc-922d-b4362ed0b7d8" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="3033244c-76ff-f494-c2eb-bda7ff2bb37d" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb29ddce1g0926g4bd0g6f0cg8b2d176df971" version="4" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b1e79063-3d07-4850-8bab-1816531c1aeb" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="1d73ce4d-65a3-a544-2cec-7d87dc7a8377" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h60acdb39gaacfg8671gf7f9g65ae1453a21e" version="4" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowWings" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_ShadowWings" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ba1cb1b5-3b30-43a5-8862-e2898ac3b115" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="7950ede6-aa6e-2c24-bd90-395f55c08eab" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd4e0dd88g9c5bg42f0g0b80gb8209ccede10" version="6" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_ShadowCursed" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2764469d-7c9c-4fef-ba5f-7c3f71b03fa4" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="b76c3a55-6a57-a188-5429-20bc4a4bffec" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h2c33a66eg1027gff68g6d4agf8a39e2a36a4" version="3" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_HellFire" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_HellFire" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="927a7a63-8182-42a5-aefb-8a2bb0841f51" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="cfc9f0b1-01c5-46b0-82ac-9fa96070596e" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha9306e91g6a0fgf5aega18agd1f53dc46f94" version="5" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_HolyFire" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_HolyFire" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF9370DB" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="16fe4bfd-0ca2-412f-812b-0c9be2979d67" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="fb8904b4-6eea-c452-1365-04fc7cf32347" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h54c3ce62g3162ge50eg8096g0c01b8a9b449" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_6" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0d4edd0b-f678-447c-a95e-94a96ea54815" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="3e274419-6e54-d17d-df67-9965a98143ac" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3a100447g5b05g680cgfbaeg09a1f17c80e0" version="2" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowWings" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_ShadowWings" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_7" />
+        <field name="UUID" type="IdTableFieldDefinition" value="478e8a6d-9a4a-429e-8bcb-7a1104ec53db" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="b88d9aff-94c5-7741-5557-51f9801a69d1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h97ff1e65g758eg6201ge836gf4efb1c8011a" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_ShadowCursed" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_8" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9fd5713f-c48a-4016-bbf2-9e9ec58bf789" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="1350dfb6-16f8-2a8c-612e-250029a13abe" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha270a4f2g4411gcc18g1584g120f767a82cb" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_HellFire" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_HellFire" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_9" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7f313032-1d87-41ba-9692-ea039b59d9b2" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="ec8d1174-000c-0c8b-8ea2-b31c674ea095" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h61c5520ag165dgbe8bg7a63gd9b4f28f3fe4" version="1" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_HolyFire" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_HolyFire" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF6495ED" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_19" />
+        <field name="UUID" type="IdTableFieldDefinition" value="82fdb9ad-3dd0-455b-8801-df3a0d3ad573" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="7cd1f064-40f3-1903-c36e-7c4875d31e42" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h11c51711g96a7g5fc4g4e1egff85bede2ad3" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Electro" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Lightning" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_20" />
+        <field name="UUID" type="IdTableFieldDefinition" value="856f78a0-7233-44f7-b195-57cd27c1d73d" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="e48397c6-5857-b2c6-80db-8679d4e8ac3c" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc30cd500g6e7cg9835g7c29gdbc76707f2f8" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Electro" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Lightning" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFFA8072" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_21" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1033a3b9-ddbb-4035-84fd-20ce60890124" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="fba2eae7-52c6-fab0-2f0e-3acaeba35281" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h47b13a23g4196g553agbca4gc13d2d3f4437" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_SorcElectro" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_SorcLightning" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_22" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a9207ec9-7445-43c5-8f6a-725eab6ed42f" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="20b7e213-8661-aa0b-1193-e6274cc44cef" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb9a93a2bg9a20g46afg32e4ga8d66ae1142d" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_SorcElectro" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_SorcLightning" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF4B0082" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_23" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7cc5e0ae-6975-46e3-9e6f-c14eebdbe5ec" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="9af70c10-ebba-9cd8-237a-52dcd746333f" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h776c636eg86e9g07e6g8f58gd62d4319ad1f" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_SharShadow" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_SharShadow" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_24" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d175b513-9b2f-4b2f-aa33-0f7f650fbe31" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="22a56fb8-ce56-ca1b-fd8b-b53f1b8624a4" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h40435913ga0cdg0675gbd43gbadaaa377777" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_SharShadow" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_SharShadow" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF800000" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_25" />
+        <field name="UUID" type="IdTableFieldDefinition" value="245d9c3f-4811-4405-bcea-c21c64826d50" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="353528a1-b54c-ebc2-ce4f-c26a65835d3b" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdf25329fg8536g32f6g33e9gfb6fb8901d30" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_BloodShadow" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_BloodShadow" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_26" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3b76e089-1577-4cb3-b419-20550fcaddf8" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="0ff551c4-a2a1-39b6-be67-266927f7682f" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h16a3278dg4be6ge4b2g150egc04eb9a63a47" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_BloodShadow" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_BloodShadow" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF2F4F4F" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_27" />
+        <field name="UUID" type="IdTableFieldDefinition" value="9605bb22-c5fc-4c09-b72b-62090e452c11" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="4620fc98-a2b0-7d72-8e11-d9f65df37510" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3deb950ege3f5gb574gb7a3gf968ee75973b" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_ShadowCursed_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_B" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_28" />
+        <field name="UUID" type="IdTableFieldDefinition" value="86b54e2e-6adb-4f3d-b5db-1e30a389d7d4" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="1a36e6f0-e383-7254-3f53-3b82c57bba79" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9670a0c3gf880g5295g6256gedd6c77fea57" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_ShadowCursed_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_B" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF708090" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_29" />
+        <field name="UUID" type="IdTableFieldDefinition" value="c9abf8d1-6756-42b6-a944-33b79570a7c8" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="3382b77b-53cd-db10-9623-682c0e32a314" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h100222efgc4d0g252dg011ag400431595e15" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_Ghost" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_A" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_30" />
+        <field name="UUID" type="IdTableFieldDefinition" value="322f3036-b274-4ddd-aaf6-285a3978925a" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="7a338cc3-cf7c-69de-d45f-8037f03a6b9e" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="heb8599ccgc531gce93g4c72g0edb0717e4ed" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_Ghost" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_A" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF778899" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_31" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ed05f05c-aae6-44e6-905f-5a06af4675b0" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="4a3489ec-26a3-ce11-4dbe-a5662ae4d5c8" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0090291eg7fe9g198cg3bd8g58af2c5c6777" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Ghost" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_B" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_32" />
+        <field name="UUID" type="IdTableFieldDefinition" value="04caeb97-33c7-45be-8cdc-124454d88408" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="1d1b9258-f837-eeb7-d9ad-be747fa1346e" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hff2fabb1g7113ge212ge0a1gf0faf4d667f0" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Ghost" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_B" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_33" />
+        <field name="UUID" type="IdTableFieldDefinition" value="e5e6c4db-8445-4fb8-9d3c-b7c5ca66938a" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="fe23dacc-d5c8-09d0-fbc5-3f1a365e5c8b" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4fb61fabgd72eg49bbg593dg21a508ce5ecc" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_Ghost_ShadowCurse" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_A" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_34" />
+        <field name="UUID" type="IdTableFieldDefinition" value="36204456-1a7a-4ad7-9268-c2b684b76a12" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="610f5cc4-c2bc-7465-6a19-767f574a274f" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he34c37b4ga7e7g414bgb041gc086319d48d4" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_Ghost_ShadowCurse" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_A" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_35" />
+        <field name="UUID" type="IdTableFieldDefinition" value="aa75abe3-2d1b-462b-bdb4-132da2327acf" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="be3092e4-49bb-c3e4-4294-ed2ccbd6feda" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb51f4178g1f03g3633ga2e0g11ce3e2b802a" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Ghost_ShadowCurse" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_B" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_36" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4462a442-59ef-436b-a80c-84a905728077" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="8fb23cd9-149c-38f3-8081-6840701aa3b3" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h540a4182g271bg8612gcfd3gc39861b00237" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Ghost_ShadowCurse" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_B" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF008080" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_37" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a9fccd2e-a5b3-422e-b017-bae782a56b48" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="0ce1c196-970c-1080-8346-6a48d3e8bca8" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h782a0f6egd1b4g27bdgf820g26861a19c8d8" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Ghost_ShadowCurse_C" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_C" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_38" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a804559d-9c71-421a-bef0-d042c8cd74a7" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="2718d45c-3f58-b933-1bba-95761f0dfcc6" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he1098833gf429g0dffg7d9fgda62035f03d9" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Ghost_ShadowCurse_C" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_C" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF483D8B" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_39" />
+        <field name="UUID" type="IdTableFieldDefinition" value="cfd4357e-fa44-423c-9907-dd0e7cea5ab8" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="350c8fd9-ac94-b0d4-3597-d4c8bc340569" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h64f4e5e9ga284gde07g0932g684f3a2267fd" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_Ghost_SharShadow" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_A" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_40" />
+        <field name="UUID" type="IdTableFieldDefinition" value="04e4062e-e457-46a2-9fe4-6db9273ca08c" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="5751c01f-ea0a-506a-fd7b-00adfd6be822" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h24c5e9eag1b9ag77d0g04a6g4f30f75a974c" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_Ghost_SharShadow" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_A" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FF483D8B" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_41" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5a373633-51a2-4e2c-afb5-f57f6c447293" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="f542d850-9590-03ae-6689-5ff28782f152" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9d99d3adg4759gccf1gfe45g92d47cb5314c" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Ghost_SharShadow" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_B" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_42" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dacaa188-590c-4337-9183-c9f40d64a1c3" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="25869c70-af07-024d-8040-d009dcb1aed8" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h77c79605g98adg3a19g8032g09609c45bd8f" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Ghost_SharShadow" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_B" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFA52A2A" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_43" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0a8ea5cc-f907-4e4c-b1dd-5fe86b6a84f4" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="5e81389d-b15e-7b47-781f-5c388debbf00" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h49aab32bgc40agfb53ge750g1edbef105020" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_Ghost_BloodShadow" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_A" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_44" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d0a33937-f1c8-4c19-bfc6-46529e78cdae" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="90c24542-d3bd-5a05-dba7-27093bc06726" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h22730f61g9623g2c89gde1fg4d98ea13d64c" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_Ghost_BloodShadow" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_A" />
+      </fields>
+    </stat_object>
+    <stat_object color="#FFA52A2A" is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_45" />
+        <field name="UUID" type="IdTableFieldDefinition" value="fbcecdc6-2eae-42d1-ba7d-e03f5d4f1eef" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Male" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="833d69ac-65b8-d178-65b2-bb7e30dc4329" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb2327478gb566g0510g138ag1fa361cfb744" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Ghost_BloodShadow" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_B" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_46" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4820fa4a-756b-4685-b2c8-3d193b26f0a0" />
+        <field name="RaceUUID" type="GuidTableFieldDefinition" value="9c61a74a-20df-4119-89c5-d996956b6c66" />
+        <field name="BodyType" type="EnumerationTableFieldDefinition" value="Female" enumeration_type_name="BodyType" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="VisualResource" type="GuidTableFieldDefinition" value="e31a07e2-0372-5e2f-16d1-dadd2e869a51" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd2e0b50dg75e6g92c7g6ee6g5dc07f3a03a8" version="1" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Ghost_BloodShadow" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_B" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>
