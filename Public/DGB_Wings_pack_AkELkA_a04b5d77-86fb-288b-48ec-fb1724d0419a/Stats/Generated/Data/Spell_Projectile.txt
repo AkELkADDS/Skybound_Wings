@@ -1,0 +1,9 @@
+new entry "Projectile_Fly_DragonFly_SkyboundWings_EL_1"
+type "SpellData"
+data "SpellType" "Projectile"
+using "Projectile_Fly"
+data "Icon" "Skill_SW_DragonWind"
+data "DisplayName" "hba959675g92fbgd3d9g5876g567091e8ae52;1"
+data "Description" "hb7656e4ege4bcg8f71gd70bg786ad9defae3;1"
+data "UseCosts" "Movement:Distance*0.5;BonusActionPoint:1;"
+

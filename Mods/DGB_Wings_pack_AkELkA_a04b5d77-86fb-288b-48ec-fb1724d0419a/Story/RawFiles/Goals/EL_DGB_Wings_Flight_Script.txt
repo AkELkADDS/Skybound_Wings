@@ -1,0 +1,46 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+IF 
+    	ChangeAppearanceCompleted(_)
+
+AND
+    	DB_Players(_Player)
+AND
+    	IsTagged(_Player, (TAG)EL_DGB_Wings_Flight_c8beccad-94fe-4c22-89d1-a48471092375,1)
+THEN
+	    AddSpell(_Player,"Projectile_Fly_DragonFly_SkyboundWings_EL_1");
+
+IF 
+    	LevelLoaded(_)
+
+AND
+    	DB_Players(_Player)
+AND
+    	IsTagged(_Player, (TAG)EL_DGB_Wings_Flight_c8beccad-94fe-4c22-89d1-a48471092375,1)
+THEN
+	    AddSpell(_Player,"Projectile_Fly_DragonFly_SkyboundWings_EL_1");
+
+IF 
+    	ChangeAppearanceCompleted(_)
+AND
+    	DB_Players(_Player)
+AND NOT
+    	IsTagged(_Player, (TAG)EL_DGB_Wings_Flight_c8beccad-94fe-4c22-89d1-a48471092375,1)
+THEN
+	    RemoveSpell(_Player,"Projectile_Fly_DragonFly_SkyboundWings_EL_1");
+
+IF 
+    	LevelLoaded(_)
+AND
+    	DB_Players(_Player)
+AND NOT
+    	IsTagged(_Player, (TAG)EL_DGB_Wings_Flight_c8beccad-94fe-4c22-89d1-a48471092375,1)
+THEN
+	    RemoveSpell(_Player,"Projectile_Fly_DragonFly_SkyboundWings_EL_1");
+
+EXITSECTION
+
+ENDEXITSECTION

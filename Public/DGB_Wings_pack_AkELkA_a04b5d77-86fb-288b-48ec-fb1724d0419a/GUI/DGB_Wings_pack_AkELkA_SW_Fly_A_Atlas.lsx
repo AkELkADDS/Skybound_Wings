@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="400"/>
+    <region id="IconUVList">
+        <node id="root">
+            <children>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Skill_SW_DragonWind"/>
+                    <attribute id="U1" type="float" value="0.00390625"/>
+                    <attribute id="U2" type="float" value="0.49609375"/>
+                    <attribute id="V1" type="float" value="0.00390625"/>
+                    <attribute id="V2" type="float" value="0.49609375"/>
+                </node>
+            </children>
+        </node>
+    </region>
+    <region id="TextureAtlasInfo">
+        <node id="root">
+            <children>
+                <node id="TextureAtlasIconSize">
+                    <attribute id="Height" type="int32" value="64"/>
+                    <attribute id="Width" type="int32" value="64"/>
+                </node>
+                <node id="TextureAtlasPath">
+                    <attribute id="Path" type="string" value="Assets/Textures/Icons/DGB_Wings_pack_AkELkA_SW_Fly_A_Atlas.dds"/>
+                    <attribute id="UUID" type="FixedString" value="7194b106-4761-ba0b-3c5c-704b24eeadd2"/>
+                </node>
+                <node id="TextureAtlasTextureSize">
+                    <attribute id="Height" type="int32" value="128"/>
+                    <attribute id="Width" type="int32" value="128"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
