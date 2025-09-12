@@ -99,8 +99,17 @@
   <content contentuid="h3deb950ege3f5gb574gb7a3gf968ee75973b" version="1">ShadowCursed Wings B</content>
   <content contentuid="h9670a0c3gf880g5295g6256gedd6c77fea57" version="1">ShadowCursed Wings B</content>
   <content contentuid="hb7656e4ege4bcg8f71gd70bg786ad9defae3" version="1">Fly to a target position.</content>
-  <content contentuid="hba959675g92fbgd3d9g5876g567091e8ae52" version="1">Dragon Fly</content>
+  <content contentuid="hba959675g92fbgd3d9g5876g567091e8ae52" version="4">Wyrmling’s Glide</content>
   <content contentuid="h89f7545fg340cg915fg0ff2gbfc63a98cc9a" version="1">Acid Wings</content>
   <content contentuid="hdd354628gf647g8ab9g27ecg2bf3bf3b9e03" version="1">Acid Wings</content>
   <content contentuid="hf2aa82b0g29e3g5ebbgca96g90f237165628" version="1">Acid Wings</content>
+  <content contentuid="h8e7b2289g7d23ga6e6g2208g95da0eff996d" version="1">Ray of Frost</content>
+  <content contentuid="hcef5f493g94f7gab5age87agff415ebb088e" version="1">Reduces the target's &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; by [1].</content>
+  <content contentuid="h179cde3eg4c2eg3a62gcbe8gf72705ddb4f3" version="1">Fly to a target position.</content>
+  <content contentuid="h107b663dgd43fg0af2g7b7agcc1ab8ec8a85" version="1">Dragon Fly</content>
+  <content contentuid="h0bd87365g870cg534bge7fbge632e910a432" version="2">Draconic Flight</content>
+  <content contentuid="h04a18e32g573cg1865gf9c5g56f0de820441" version="1">Fly to a target position.</content>
+  <content contentuid="hfaa3e2fbg0d13gb6c0g439dgc286ef466f04" version="2">Draconic Flight</content>
+  <content contentuid="hb2a2e1f7g53b5g6a4dgb517g6205837d27bf" version="2">Dragon’s Ascent</content>
+  <content contentuid="hde97ac89gca1cga0ffge5dfg88c8eda4806d" version="1">Elder Skystride</content>
 </contentList>

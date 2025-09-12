@@ -11,7 +11,7 @@ AND
 AND
     	IsTagged(_Player, (TAG)EL_DGB_Wings_Flight_c8beccad-94fe-4c22-89d1-a48471092375,1)
 THEN
-	    AddSpell(_Player,"Projectile_Fly_DragonFly_SkyboundWings_EL_1");
+	    AddPassive(_Player,"EL_DGB_SW_Fly");
 
 IF 
     	LevelLoaded(_)
@@ -21,7 +21,7 @@ AND
 AND
     	IsTagged(_Player, (TAG)EL_DGB_Wings_Flight_c8beccad-94fe-4c22-89d1-a48471092375,1)
 THEN
-	    AddSpell(_Player,"Projectile_Fly_DragonFly_SkyboundWings_EL_1");
+	    AddPassive(_Player,"EL_DGB_SW_Fly");
 
 IF 
     	ChangeAppearanceCompleted(_)
@@ -30,7 +30,7 @@ AND
 AND NOT
     	IsTagged(_Player, (TAG)EL_DGB_Wings_Flight_c8beccad-94fe-4c22-89d1-a48471092375,1)
 THEN
-	    RemoveSpell(_Player,"Projectile_Fly_DragonFly_SkyboundWings_EL_1");
+	    RemovePassive(_Player,"EL_DGB_SW_Fly");
 
 IF 
     	LevelLoaded(_)
@@ -39,7 +39,7 @@ AND
 AND NOT
     	IsTagged(_Player, (TAG)EL_DGB_Wings_Flight_c8beccad-94fe-4c22-89d1-a48471092375,1)
 THEN
-	    RemoveSpell(_Player,"Projectile_Fly_DragonFly_SkyboundWings_EL_1");
+	    RemovePassive(_Player,"EL_DGB_SW_Fly");
 
 EXITSECTION
 
