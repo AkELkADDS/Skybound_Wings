@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="ConditionErrors">
+        <node id="root">
+            <children>
+                <node id="ConditionErrors">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6156cfadg3e58g32b1gc4b2g4e7c95b5a285" version="1"/>
+                    <attribute id="Identifier" type="FixedString" value="CE_Status_EL_SW_WINGS_HIDE_True"/>
+                    <attribute id="UUID" type="guid" value="5c28e2bb-b48b-4d31-81ff-4ab6fab58d00"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

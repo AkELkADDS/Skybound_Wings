@@ -12,5 +12,16 @@
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb83d5b03gcf7egda99ga097gb586fd08ebfa" version="1" />
       </fields>
     </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="0408ae36-0f34-4ab5-be92-fdc7f34eeb49" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF4B0082" value="EL_DGB_M_SW_Wings_Pose_Swap_A" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h271c095cgd653g20d8g19a1g86e1a18b9165" version="2" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_SW_DragonWind" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted;IsToggled;ToggledDefaultAddToHotbar;ForceShowInCC;ToggledDefaultOn" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7ad2c90dgede1gd1a9g5377ga8f163a3f367" version="2" />
+        <field name="DynamicAnimationTag" type="GuidObjectTableFieldDefinition" value="3507d6ec-573f-4664-91db-8adb2913d353" />
+      </fields>
+    </stat_object>
   </stat_objects>
 </stats>

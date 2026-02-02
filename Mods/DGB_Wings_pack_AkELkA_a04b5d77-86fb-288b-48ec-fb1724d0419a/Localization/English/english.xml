@@ -121,4 +121,11 @@
   <content contentuid="h6d76a6aag4bd3g8797gfc49gf1b8a5816be3" version="1">Hide Wings in Dialog</content>
   <content contentuid="h41c2dc7bg7911g7e40g3c6bgbb7dbdc7c48f" version="1">Completely Hiding wings in Dialog when toggled</content>
   <content contentuid="h948ff1b3g7addgbf2fg4e83gab9924553573" version="1">OSIRIS SWAP TEST</content>
+  <content contentuid="h6156cfadg3e58g32b1gc4b2g4e7c95b5a285" version="1">Target is already hidden his wings</content>
+  <content contentuid="h271c095cgd653g20d8g19a1g86e1a18b9165" version="2">Fold the Wings</content>
+  <content contentuid="h7ad2c90dgede1gd1a9g5377ga8f163a3f367" version="2">Fold the Wings</content>
+  <content contentuid="hec6532a9gaeccg8e15gdb58g9d9423dd6591" version="1">Metamagic: Twinned Spell</content>
+  <content contentuid="h3f00ad5agde2egccdcg9bfdg5e77c9a86b47" version="1">Spells that only target 1 creature can target an additional creature.&lt;br&gt;&lt;br&gt;Costs 1 Sorcery Point per &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; level used. &lt;LSTag Tooltip="Cantrip"&gt;Cantrips&lt;/LSTag&gt; also cost 1 Sorcery Point.</content>
+  <content contentuid="h4a2b2feag05e4gd01fg3e3eg347a2e3eea81" version="1">For spells that don't shoot a projectile, the targets need to be close enough together.</content>
+  <content contentuid="hc8217b34gce8cgfd9dgb27bgf1e65e86481b" version="1">Fiendish Spire Wings</content>
 </contentList>

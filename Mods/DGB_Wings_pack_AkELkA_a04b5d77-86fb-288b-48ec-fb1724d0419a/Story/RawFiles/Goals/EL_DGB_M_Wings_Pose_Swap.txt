@@ -1,0 +1,46 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+IF 
+    	ChangeAppearanceCompleted(_)
+
+AND
+    	DB_Players(_Player)
+AND
+    	IsTagged(_Player, (TAG)EL_DGB_Wings_Pose_Swap_f9c4d8a3-a918-4caf-9a8c-a7e97a75d554,1)
+THEN
+	    AddPassive(_Player,"EL_DGB_M_SW_Wings_Pose_Swap_A");
+
+IF 
+    	LevelLoaded(_)
+
+AND
+    	DB_Players(_Player)
+AND
+    	IsTagged(_Player, (TAG)EL_DGB_Wings_Pose_Swap_f9c4d8a3-a918-4caf-9a8c-a7e97a75d554,1)
+THEN
+	    AddPassive(_Player,"EL_DGB_M_SW_Wings_Pose_Swap_A");
+
+IF 
+    	ChangeAppearanceCompleted(_)
+AND
+    	DB_Players(_Player)
+AND NOT
+    	IsTagged(_Player, (TAG)EL_DGB_Wings_Pose_Swap_f9c4d8a3-a918-4caf-9a8c-a7e97a75d554,1)
+THEN
+	    RemovePassive(_Player,"EL_DGB_M_SW_Wings_Pose_Swap_A");
+
+IF 
+    	LevelLoaded(_)
+AND
+    	DB_Players(_Player)
+AND NOT
+    	IsTagged(_Player, (TAG)EL_DGB_Wings_Pose_Swap_f9c4d8a3-a918-4caf-9a8c-a7e97a75d554,1)
+THEN
+	    RemovePassive(_Player,"EL_DGB_M_SW_Wings_Pose_Swap_A");
+
+EXITSECTION
+
+ENDEXITSECTION

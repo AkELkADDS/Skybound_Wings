@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="500"/>
+    <region id="AnimationSetPriorities">
+        <node id="root">
+            <children>
+                <node id="AnimationSetPriority">
+                    <attribute id="Name" type="LSString" value="EL_SW_Wings_HIDE"/>
+                    <attribute id="Priority" type="int32" value="50"/>
+                    <attribute id="UUID" type="guid" value="3507d6ec-573f-4664-91db-8adb2913d353"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
