@@ -6,8 +6,13 @@
             <children>
                 <node id="AnimationSetPriority">
                     <attribute id="Name" type="LSString" value="EL_SW_Wings_HIDE"/>
-                    <attribute id="Priority" type="int32" value="50"/>
+                    <attribute id="Priority" type="int32" value="1"/>
                     <attribute id="UUID" type="guid" value="3507d6ec-573f-4664-91db-8adb2913d353"/>
+                </node>
+                <node id="AnimationSetPriority">
+                    <attribute id="Name" type="LSString" value="EL_SW_Wings_HOVER"/>
+                    <attribute id="Priority" type="int32" value="1"/>
+                    <attribute id="UUID" type="guid" value="db1a5fc6-8fc6-469d-b46e-4f54345a6282"/>
                 </node>
             </children>
         </node>

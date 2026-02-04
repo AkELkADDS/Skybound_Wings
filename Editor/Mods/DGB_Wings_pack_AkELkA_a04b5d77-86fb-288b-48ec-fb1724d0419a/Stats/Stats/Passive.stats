@@ -7,20 +7,34 @@
         <field name="Name" type="NameTableFieldDefinition" color="#FF191970" value="EL_DGB_SW_Fly" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0bd87365g870cg534bge7fbge632e910a432" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" color="#FF191970" value="Skill_SW_DragonWind" />
-        <field name="Properties" type="EnumerationListTableFieldDefinition" color="#FF191970" value="Highlighted" enumeration_type_name="PassiveFlags" version="1" />
-        <field name="Boosts" type="StringTableFieldDefinition" color="#FF191970" value="IF(not CharacterLevelGreaterThan(4)):UnlockSpell(Projectile_Fly_DragonFly_SkyboundWings_EL);IF(CharacterLevelGreaterThan(4) and not CharacterLevelGreaterThan(10)):UnlockSpell(Projectile_Fly_DragonFly_SkyboundWings_EL_5);IF(CharacterLevelGreaterThan(10)):UnlockSpell(Projectile_Fly_DragonFly_SkyboundWings_EL_11),ModifyTooltipDescription());" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" color="#FF191970" value="Highlighted;IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb83d5b03gcf7egda99ga097gb586fd08ebfa" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" color="#FF191970" value="ApplyStatus(EL_SW_WINGS_FLIGHT, 100, -1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" color="#FF191970" value="RemoveStatus(EL_SW_WINGS_FLIGHT)" />
       </fields>
     </stat_object>
     <stat_object is_substat="false">
       <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="0408ae36-0f34-4ab5-be92-fdc7f34eeb49" />
-        <field name="Name" type="NameTableFieldDefinition" color="#FF4B0082" value="EL_DGB_M_SW_Wings_Pose_Swap_A" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF4B0082" value="EL_DGB_SW_Pose_Swap_A" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h271c095cgd653g20d8g19a1g86e1a18b9165" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" value="Skill_SW_DragonWind" />
-        <field name="Properties" type="EnumerationListTableFieldDefinition" value="Highlighted;IsToggled;ToggledDefaultAddToHotbar;ForceShowInCC;ToggledDefaultOn" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" color="#FF4B0082" value="Highlighted;IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar;ForceShowInCC" enumeration_type_name="PassiveFlags" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7ad2c90dgede1gd1a9g5377ga8f163a3f367" version="2" />
-        <field name="DynamicAnimationTag" type="GuidObjectTableFieldDefinition" value="3507d6ec-573f-4664-91db-8adb2913d353" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" color="#FF4B0082" value="ApplyStatus(EL_SW_WINGS_HIDING, 100, -1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" color="#FF4B0082" value="RemoveStatus(EL_SW_WINGS_HIDING)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="UUID" type="IdTableFieldDefinition" value="8477d5ea-c79e-4999-8e6c-cc35f6aee560" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF800080" value="EL_DGB_SW_Hover" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hab9fa6efgd4a3g11d5ge315gfd0c0b8a37c6" version="1" />
+        <field name="Icon" type="StringTableFieldDefinition" value="Skill_SW_DragonWind" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" color="#FF800080" value="Highlighted;IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar;ForceShowInCC" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hae753ee1gb5e8g4f9dg909bg3344c704969b" version="1" />
+        <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" color="#FF800080" value="ApplyStatus(EL_SW_WINGS_HOVER, 100, -1)" />
+        <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" color="#FF800080" value="RemoveStatus(EL_SW_WINGS_HOVER)" />
       </fields>
     </stat_object>
   </stat_objects>

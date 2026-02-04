@@ -128,4 +128,14 @@
   <content contentuid="h3f00ad5agde2egccdcg9bfdg5e77c9a86b47" version="1">Spells that only target 1 creature can target an additional creature.&lt;br&gt;&lt;br&gt;Costs 1 Sorcery Point per &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; level used. &lt;LSTag Tooltip="Cantrip"&gt;Cantrips&lt;/LSTag&gt; also cost 1 Sorcery Point.</content>
   <content contentuid="h4a2b2feag05e4gd01fg3e3eg347a2e3eea81" version="1">For spells that don't shoot a projectile, the targets need to be close enough together.</content>
   <content contentuid="hc8217b34gce8cgfd9dgb27bgf1e65e86481b" version="1">Fiendish Spire Wings</content>
+  <content contentuid="h14e51108gfe97g1460g2ebeg1bb5c0e25478" version="1">Rampart Aura</content>
+  <content contentuid="h1d84ecbdgce64ge889g67c9gcfaf55ba8d14" version="1">All entities with or in this aura have their &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; halved.</content>
+  <content contentuid="h05368867g9522gccefg24a6ge94a83f9cc6a" version="1">Hiding Wings Boost</content>
+  <content contentuid="h77165484g03a6gfee8g9561gb21c0290e2c1" version="1">Hiding wings Boost</content>
+  <content contentuid="h64af2a4bg63b1g0e7bgc7bcg7c38e5c7226c" version="1">Hover</content>
+  <content contentuid="h1c4c079agd911g6dbega6cbgcafe6af29337" version="1">Winged Hover Boost</content>
+  <content contentuid="hab9fa6efgd4a3g11d5ge315gfd0c0b8a37c6" version="1">Fold the Wings</content>
+  <content contentuid="hae753ee1gb5e8g4f9dg909bg3344c704969b" version="1">Fold the Wings</content>
+  <content contentuid="hf6f9fcb7g543fg1997g17bdg792d9f179ebd" version="1">Draconic Flight</content>
+  <content contentuid="hf9b9824dgc0a3g0fa6g7260gbeaa474aadff" version="1">Ability to flight grows with you</content>
 </contentList>

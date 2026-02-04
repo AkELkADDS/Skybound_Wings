@@ -1,0 +1,46 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+IF 
+    	ChangeAppearanceCompleted(_)
+
+AND
+    	DB_Players(_Player)
+AND
+    	IsTagged(_Player,(TAG)EL_DGB_SW_Flight_c8beccad-94fe-4c22-89d1-a48471092375,1)
+THEN
+	    AddPassive(_Player,"EL_DGB_SW_Fly");
+
+IF 
+    	LevelLoaded(_)
+
+AND
+    	DB_Players(_Player)
+AND
+    	IsTagged(_Player,(TAG)EL_DGB_SW_Flight_c8beccad-94fe-4c22-89d1-a48471092375,1)
+THEN
+	    AddPassive(_Player,"EL_DGB_SW_Fly");
+
+IF 
+    	ChangeAppearanceCompleted(_)
+AND
+    	DB_Players(_Player)
+AND NOT
+    	IsTagged(_Player,(TAG)EL_DGB_SW_Flight_c8beccad-94fe-4c22-89d1-a48471092375,1)
+THEN
+	    RemovePassive(_Player,"EL_DGB_SW_Fly");
+
+IF 
+    	LevelLoaded(_)
+AND
+    	DB_Players(_Player)
+AND NOT
+    	IsTagged(_Player,(TAG)EL_DGB_SW_Flight_c8beccad-94fe-4c22-89d1-a48471092375,1)
+THEN
+	    RemovePassive(_Player,"EL_DGB_SW_Fly");
+
+EXITSECTION
+
+ENDEXITSECTION

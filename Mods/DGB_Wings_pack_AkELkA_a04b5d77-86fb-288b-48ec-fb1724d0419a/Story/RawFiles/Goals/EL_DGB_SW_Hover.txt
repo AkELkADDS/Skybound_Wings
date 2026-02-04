@@ -1,0 +1,46 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+IF 
+    	ChangeAppearanceCompleted(_)
+
+AND
+    	DB_Players(_Player)
+AND
+    	IsTagged(_Player,(TAG)EL_DGB_SW_Hover_67218e0d-750e-494b-93ce-8b0ecc0185d0,1)
+THEN
+	    AddPassive(_Player,"EL_DGB_SW_Hover");
+
+IF 
+    	LevelLoaded(_)
+
+AND
+    	DB_Players(_Player)
+AND
+    	IsTagged(_Player,(TAG)EL_DGB_SW_Hover_67218e0d-750e-494b-93ce-8b0ecc0185d0,1)
+THEN
+	    AddPassive(_Player,"EL_DGB_SW_Hover");
+
+IF 
+    	ChangeAppearanceCompleted(_)
+AND
+    	DB_Players(_Player)
+AND NOT
+    	IsTagged(_Player,(TAG)EL_DGB_SW_Hover_67218e0d-750e-494b-93ce-8b0ecc0185d0,1)
+THEN
+	    RemovePassive(_Player,"EL_DGB_SW_Hover");
+
+IF 
+    	LevelLoaded(_)
+AND
+    	DB_Players(_Player)
+AND NOT
+    	IsTagged(_Player,(TAG)EL_DGB_SW_Hover_67218e0d-750e-494b-93ce-8b0ecc0185d0,1)
+THEN
+	    RemovePassive(_Player,"EL_DGB_SW_Hover");
+
+EXITSECTION
+
+ENDEXITSECTION

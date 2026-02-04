@@ -3,9 +3,16 @@
   <stat_objects>
     <stat_object is_substat="false">
       <fields>
-        <field name="Name" type="NameTableFieldDefinition" value="EL_SW_Wings_HIDE" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF4B0082" value="EL_SW_Wings_HIDE" />
         <field name="UUID" type="IdTableFieldDefinition" value="3507d6ec-573f-4664-91db-8adb2913d353" />
-        <field name="Priority" type="IntegerTableFieldDefinition" value="50" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" color="#FF800080" value="EL_SW_Wings_HOVER" />
+        <field name="UUID" type="IdTableFieldDefinition" value="db1a5fc6-8fc6-469d-b46e-4f54345a6282" />
+        <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
       </fields>
     </stat_object>
   </stat_objects>
