@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <save>
-    <version major="4" minor="8" revision="0" build="400"/>
+    <version major="4" minor="8" revision="0" build="500"/>
     <region id="IconUVList">
         <node id="root">
             <children>
@@ -10,6 +10,20 @@
                     <attribute id="U2" type="float" value="0.49609375"/>
                     <attribute id="V1" type="float" value="0.00390625"/>
                     <attribute id="V2" type="float" value="0.49609375"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Skill_SW_WIing_Hover"/>
+                    <attribute id="U1" type="float" value="0.50390625"/>
+                    <attribute id="U2" type="float" value="0.99609375"/>
+                    <attribute id="V1" type="float" value="0.00390625"/>
+                    <attribute id="V2" type="float" value="0.49609375"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="Skill_SW_WIing_Pose_A"/>
+                    <attribute id="U1" type="float" value="0.00390625"/>
+                    <attribute id="U2" type="float" value="0.49609375"/>
+                    <attribute id="V1" type="float" value="0.50390625"/>
+                    <attribute id="V2" type="float" value="0.99609375"/>
                 </node>
             </children>
         </node>
