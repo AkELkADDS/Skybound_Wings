@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a 
-   Thu 02/05/2026 20:38:14.92 
+   Fri 02/06/2026  8:57:29.65 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -95,10 +95,12 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Assets\_Male\Textures\Wings\DGB_M_Cambion_Wings_A\DGB_CMBN_M_Wings_A_B2_NM.DDS 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0217fd45-2397-44f4-8a3a-fae9827eb3b0.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\02fab36b-689c-025f-b600-c06dc6d8183c.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\049e151a-f5ab-d67d-359b-bdead83bdabd.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\04d25021-3fe0-4da6-9079-23dd1a09368c.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\05c99359-4384-5dba-a03c-9304f0aa314b.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\07f24723-121d-4fc9-85b9-9ab391ff7953.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0a334f54-2f87-e7a0-b482-bf5a0c7ae7fb.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0a5115c2-c00c-0458-1672-5f8ffb494f37.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0a85fefc-87e9-302c-f93c-a63c5079a27a.lsf 
@@ -106,7 +108,9 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0cf09a53-75a9-5438-c1f9-8c4936344906.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0db6cfec-fea8-2dd8-cb37-3d26000f8d94.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0dbee740-7fd0-8037-5b25-f180e13a5507.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0f5edbfa-7179-4797-9a2e-cc99179b680f.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0ff551c4-a2a1-39b6-be67-266927f7682f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\100e9c2e-2171-40f2-ab10-dbea3eaa4bc6.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\10f9fa8d-2f27-cc45-7cfe-d99eb90b1191.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\1350dfb6-16f8-2a8c-612e-250029a13abe.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\1365d662-066c-41e1-be0f-e643b87941c3.lsf 
@@ -114,6 +118,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\17e593f7-0880-45d9-52aa-8de9710656f6.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\19684140-3417-32d3-8541-62727f35ac9c.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\1a36e6f0-e383-7254-3f53-3b82c57bba79.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\1a8ea992-b37f-472c-a4f2-6cf02673b16f.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\1b0b2c4b-5704-abe6-622b-00a19bed4e32.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\1d1b9258-f837-eeb7-d9ad-be747fa1346e.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\1d73ce4d-65a3-a544-2cec-7d87dc7a8377.lsf 
@@ -163,12 +168,14 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\467fff6a-5a38-bf63-0425-883ad5d57702.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\48f039df-7005-84d5-3a67-964084ee8e4b.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\493a24ad-cc0c-bc48-0e47-28ec7a0b9607.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\495e6eca-7e4f-49dc-a405-c2af53acb714.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\4a3489ec-26a3-ce11-4dbe-a5662ae4d5c8.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\4ba6c93c-70ba-d996-bed3-8fb32122530c.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\4c7a12c8-166e-548d-87fb-424d50095bdc.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\4d6ea137-ccc9-d67a-246b-499291c0a746.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\4dd8f433-fb55-9ad0-cd2c-94d1b15df151.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\4f49617d-4aeb-6e7b-f7ed-97559da4af3d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\52af2cbd-2153-440e-a5c2-a0f613503b8d.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\52e8e6f0-5a79-03f8-ae52-d924265bf187.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\555f3c53-9c2a-7bd9-2e10-92ba4b501ad5.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\557302e9-2634-7d8d-f4a0-5bf68d504a4b.lsf 
@@ -183,6 +190,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\610f5cc4-c2bc-7465-6a19-767f574a274f.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\61a270c4-f1af-4a8b-093d-43b763119cac.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\63218adc-cf7b-2a98-2175-d44c02d021ff.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\63faf8a7-d493-4d14-95a4-61c9d6cde2c8.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\655fca9b-4be5-6f5c-4a07-9e49b695306a.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\6807939a-d453-a55e-6177-a48a41678790.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\6812abe8-f6f3-ffd2-d311-80cf9379471e.lsf 
@@ -217,12 +225,14 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\7e101864-43ed-e925-54da-79d608737047.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\7eae724a-22f5-1966-0c30-6fb84e9e90e1.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\80bd4546-7eb5-ce9a-c2d1-14af68dff84f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\8203f038-d175-4bf7-a5de-47d73c61df11.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\833d69ac-65b8-d178-65b2-bb7e30dc4329.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\837529f5-cb98-92a8-3147-c5a09d4286c8.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\83f6bc5a-2505-df72-b7cb-d849bda24d02.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\84108e1c-613d-5fd1-95b3-1523cf101b21.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\85baf864-4624-1f4c-3d43-b9d847107360.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\89eeb94c-03d3-8053-c87f-04eab87b854d.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\8aece7c1-01ac-49a6-853f-aad896f583e5.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\8c94bfb8-0180-f5f5-05b1-ab9d8119cf6d.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\8d985108-e384-7d8b-b82a-b6dd4707e421.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\8dfe11cc-9c6c-a799-3ca4-f084e1b23132.lsf 
@@ -239,6 +249,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\97690687-6a96-1fcf-b59f-da2e9733d06c.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\9af70c10-ebba-9cd8-237a-52dcd746333f.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\9cc05fda-c375-4f16-951a-ebdefaa92961.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\9cc10fdd-994f-4149-9e2a-9efc19ca7b2d.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\9e5c8c2f-070b-835e-384c-406ff9dcd168.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a11cd42e-bc34-4628-43e6-ea9950f43a39.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a17aeaee-aab3-432e-5feb-4a3150b15150.lsf 
@@ -246,6 +257,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a353fbb8-3616-4751-e620-91e28119ee09.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a407c23c-b434-c14b-a91b-3f69b1260849.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a4341b7d-351e-498c-a596-7b652410334f.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a674cfe4-6fb8-4e65-91f6-e473a82236bc.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a7a4ea01-7846-03e4-c4bb-843ba8245168.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a7e7f2ee-2c61-066f-a9c0-55cfb249c3cf.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a98cbf7f-ab2a-bc7c-985d-defd3ae042fb.lsf 
@@ -268,12 +280,14 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\b472df34-d4f4-655f-412a-81d0ceecf1c6.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\b589af65-9c46-0422-32be-6710924839b7.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\b634ee18-a675-b17a-03ce-761606030ce4.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\b6c20fb7-ee23-4859-a7d5-c7fe1b8b56f8.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\b6c84903-9466-25ad-3343-cdc448d5f079.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\b7683ac7-1065-fa9c-637d-4c86da4cd32b.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\b76c3a55-6a57-a188-5429-20bc4a4bffec.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\b88d9aff-94c5-7741-5557-51f9801a69d1.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\baeca0f5-2e97-55a7-f108-4a24c5c2058b.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\bd14471d-2a70-df7d-0f7f-5a8741232541.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\bd55f8d4-1197-4b18-bbe5-72a3e4a7f895.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\bddc8439-4a10-b633-9388-3dd6bb9b9bc4.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\be3092e4-49bb-c3e4-4294-ed2ccbd6feda.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\be439d15-a6e8-57e3-b6a4-e39c1d963a0a.lsf 
@@ -298,10 +312,13 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d1249c4a-ca4b-189c-08ad-4881678debf0.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d1485a5a-fe97-a80d-75ec-4b95b04bca57.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d1b4aca1-7589-3ae3-bff0-7ea36f7772f9.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d62ff017-6f85-4a71-b21c-ad17b13cc7d3.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d6d28cb1-1690-d2a3-8ae7-ead676118779.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d7278815-35e1-6b8f-0885-6a4fbe57ec09.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d793e895-1cb4-c8a0-0454-56fe85487ab3.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d8ed1169-e1e2-9759-3eef-71c9d2b34d9c.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\daad3e7e-ff22-4234-bcb4-630165f122cc.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\daae1f4f-d69d-4181-8d05-f002f2047ca6.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\dd878bfd-d4b7-12d0-dff9-bce8b27f87bf.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\dda0ce23-a8e0-3c0f-4aa7-f3c4bc739f16.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\de5295cb-5988-4c90-7636-5b770f3822ef.lsf 
@@ -314,9 +331,11 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\e59e9aa1-e64a-4c0b-6009-84f6f926c666.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\e5d05bc6-828f-b5c1-2717-93c8f476b906.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\e65a0051-236c-1354-27a5-c3363d006335.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\ec0ef76e-7150-459b-bb36-b1c104a9403c.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\ec8d1174-000c-0c8b-8ea2-b31c674ea095.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\edcff86d-1bd1-4953-ef0b-3acafdb0c121.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\eef27999-f474-ed09-6155-0d8639eb0ec1.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\ef9fbd48-540c-4f6f-8e63-bc8318c6dc9e.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\f1c78dfe-bfe1-9a23-727e-9fa9a51a93f8.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\f4daa20b-232d-dcf4-13ca-8065aeea32ab.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\f542d850-9590-03ae-6689-5ff28782f152.lsf 
@@ -446,6 +465,10 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_HIDDEN.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_VFX_1.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_VFX_A1.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_VFX_A1_COPY.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_VFX_A1_COPY.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_VFX_A1_HIDDEN.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_VFX_A1_HIDDEN.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_VFX_A2.GR2 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_VFX_A2.xml 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_C_VFX_1.GR2 
@@ -506,7 +529,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Tags\67218e0d-750e-494b-93ce-8b0ecc0185d0.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Tags\c8beccad-94fe-4c22-89d1-a48471092375.lsf 
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Tags\f9c4d8a3-a918-4caf-9a8c-a7e97a75d554.lsf 
-Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a: 438 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a: 461 
  
 [LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a 
  
@@ -519,7 +542,7 @@ Files found:
   E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_B_B2_EMPTY.GR2 
 Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a: 6 
  
-[LOG] Total files found across all folders: 483 
+[LOG] Total files found across all folders: 506 
  
 SECTION 2: COPY OPERATIONS 
 ------------------------------------------------------------------------ 
@@ -535,7 +558,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Thursday, February 5, 2026 8:38:18 PM
+  Started : Friday, February 6, 2026 8:57:34 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Projects\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\
 
@@ -546,7 +569,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     699	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\meta.lsx100%  
-	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\thumbnail.PNG 18%  100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\thumbnail.PNG 37%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -559,7 +582,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           2809401000 Bytes/sec.
    Speed :           160755.214 MegaBytes/min.
-   Ended : Thursday, February 5, 2026 8:38:18 PM
+   Ended : Friday, February 6, 2026 8:57:34 AM
 
  
 [DEBUG] Counting source files 
@@ -585,7 +608,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Thursday, February 5, 2026 8:38:27 PM
+  Started : Friday, February 6, 2026 8:57:35 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Editor\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\
 
@@ -596,28 +619,28 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     926	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\AnimationOverrides\AnimationSetPriorities.tbl100%  
-	    New File  		   60522	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 	    New File  		    3339	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\CharacterCreationPresets\CharacterCreationMaterialOverrides.tbl100%  
+	    New File  		   59819	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
 	    New File  		     142	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\ErrorDescriptions\ConditionErrors.tbl100%  
 	    New File  		     142	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Progressions\Progressions.tbl100%  
 	    New File  		     142	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Stats\ExtraData\Data.stats100%  
 	    New File  		    2892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Stats\SpellData\Projectile.stats100%  
 	    New File  		     145	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Stats\SpellData\Shout.stats100%  
-	    New File  		    3680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Stats\Stats\Passive.stats100%  
 	    New File  		    2932	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Stats\StatusData\Status_BOOST.stats100%  
+	    New File  		    3680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Stats\Stats\Passive.stats100%  
 
 ------------------------------------------------------------------------------
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :        14        14         1         0         0         0
    Files :        10        10         0         0         0         0
-   Bytes :    73.1 k    73.1 k         0         0         0         0
+   Bytes :    72.4 k    72.4 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :            18715500 Bytes/sec.
-   Speed :            1070.909 MegaBytes/min.
-   Ended : Thursday, February 5, 2026 8:38:28 PM
+   Speed :            18539750 Bytes/sec.
+   Speed :            1060.853 MegaBytes/min.
+   Ended : Friday, February 6, 2026 8:57:35 AM
 
  
 [DEBUG] Counting source files 
@@ -643,7 +666,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Thursday, February 5, 2026 8:38:29 PM
+  Started : Friday, February 6, 2026 8:57:37 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\
 
@@ -654,7 +677,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		   11906	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\meta.lsx100%  
-	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\mod_publish_logo.png100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\mod_publish_logo.png  0%  100%  
 	    New File  		    2103	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\GUI\metadata.lsf100%  
 	    New File  		  23.4 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Story\goals.raw100%  
 	    New File  		   17558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Story\log.txt100%  
@@ -690,9 +713,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           4514474578 Bytes/sec.
-   Speed :           258320.307 MegaBytes/min.
-   Ended : Thursday, February 5, 2026 8:38:29 PM
+   Speed :           1143666893 Bytes/sec.
+   Speed :            65441.144 MegaBytes/min.
+   Ended : Friday, February 6, 2026 8:57:37 AM
 
  
 [DEBUG] Counting source files 
@@ -718,7 +741,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Thursday, February 5, 2026 8:38:31 PM
+  Started : Friday, February 6, 2026 8:57:39 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\
 
@@ -729,29 +752,33 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     912	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\AnimationOverrides\AnimationSetPriorities.lsx100%  
-	    New File  		   53325	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
+	    New File  		   49848	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\CharacterCreation\CharacterCreationAppearanceVisuals.lsx100%  
 	    New File  		    2823	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\CharacterCreationPresets\CharacterCreationMaterialOverrides.lsx100%  
-	    New File  		   86168	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings_pack_AkELkA\DGB_CMBN_F_Wings_A_Spring_2_M.bin100%  
 	    New File  		     188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\ErrorDescriptions\ConditionErrors.lsx100%  
+	    New File  		   86168	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings_pack_AkELkA\DGB_CMBN_F_Wings_A_Spring_2_M.bin100%  
+	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Progressions\Progressions.lsx100%  
 	    New File  		    5682	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\GUI\DGB_CMBN_M_Wings_A_B_1_Atlas.lsx100%  
 	    New File  		    5288	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\GUI\DGB_CMBN_M_Wings_A_B_2_Atlas.lsx100%  
 	    New File  		    2443	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\GUI\DGB_Wings_pack_AkELkA_SW_Fly_A_Atlas.lsx100%  
-	    New File  		     184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Progressions\Progressions.lsx100%  
 	    New File  		    1519	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Tags\67218e0d-750e-494b-93ce-8b0ecc0185d0.lsf100%  
 	    New File  		    1520	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Tags\c8beccad-94fe-4c22-89d1-a48471092375.lsf100%  
 	    New File  		    1529	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Tags\f9c4d8a3-a918-4caf-9a8c-a7e97a75d554.lsf100%  
+	    New File  		    3725	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0217fd45-2397-44f4-8a3a-fae9827eb3b0.lsf100%  
 	    New File  		    2186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\02fab36b-689c-025f-b600-c06dc6d8183c.lsf100%  
 	    New File  		    2197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\049e151a-f5ab-d67d-359b-bdead83bdabd.lsf100%  
 	    New File  		    2179	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\04d25021-3fe0-4da6-9079-23dd1a09368c.lsf100%  
 	    New File  		    6511	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\05c99359-4384-5dba-a03c-9304f0aa314b.lsf100%  
+	    New File  		    3728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\07f24723-121d-4fc9-85b9-9ab391ff7953.lsf100%  
 	    New File  		    2195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0a334f54-2f87-e7a0-b482-bf5a0c7ae7fb.lsf100%  
 	    New File  		    2201	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0a5115c2-c00c-0458-1672-5f8ffb494f37.lsf100%  
 	    New File  		    2187	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0a85fefc-87e9-302c-f93c-a63c5079a27a.lsf100%  
-	    New File  		    3687	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0ce1c196-970c-1080-8346-6a48d3e8bca8.lsf100%  
+	    New File  		    3723	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0ce1c196-970c-1080-8346-6a48d3e8bca8.lsf100%  
 	    New File  		    2188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0cf09a53-75a9-5438-c1f9-8c4936344906.lsf100%  
 	    New File  		    2197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0db6cfec-fea8-2dd8-cb37-3d26000f8d94.lsf100%  
 	    New File  		    2217	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0dbee740-7fd0-8037-5b25-f180e13a5507.lsf100%  
+	    New File  		    3718	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0f5edbfa-7179-4797-9a2e-cc99179b680f.lsf100%  
 	    New File  		    3357	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\0ff551c4-a2a1-39b6-be67-266927f7682f.lsf100%  
+	    New File  		    3727	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\100e9c2e-2171-40f2-ab10-dbea3eaa4bc6.lsf100%  
 	    New File  		    1634	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\10f9fa8d-2f27-cc45-7cfe-d99eb90b1191.lsf100%  
 	    New File  		    3354	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\1350dfb6-16f8-2a8c-612e-250029a13abe.lsf100%  
 	    New File  		    1618	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\1365d662-066c-41e1-be0f-e643b87941c3.lsf100%  
@@ -759,9 +786,10 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2200	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\17e593f7-0880-45d9-52aa-8de9710656f6.lsf100%  
 	    New File  		    9573	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\19684140-3417-32d3-8541-62727f35ac9c.lsf100%  
 	    New File  		    3360	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\1a36e6f0-e383-7254-3f53-3b82c57bba79.lsf100%  
+	    New File  		    3344	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\1a8ea992-b37f-472c-a4f2-6cf02673b16f.lsf100%  
 	    New File  		    2482	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\1b0b2c4b-5704-abe6-622b-00a19bed4e32.lsf100%  
 	    New File  		    3351	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\1d1b9258-f837-eeb7-d9ad-be747fa1346e.lsf100%  
-	    New File  		    3679	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\1d73ce4d-65a3-a544-2cec-7d87dc7a8377.lsf100%  
+	    New File  		    3715	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\1d73ce4d-65a3-a544-2cec-7d87dc7a8377.lsf100%  
 	    New File  		    7857	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\1f67b64a-e7dc-5c51-24b3-807deecbe6d4.lsf100%  
 	    New File  		    3357	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\20b7e213-8661-aa0b-1193-e6274cc44cef.lsf100%  
 	    New File  		    2224	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\21254937-a9a7-07c7-6b17-99f4e591b871.lsf100%  
@@ -783,10 +811,10 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\2f925716-31f8-3d13-a84c-c58ddedc235b.lsf100%  
 	    New File  		    3322	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\3033244c-76ff-f494-c2eb-bda7ff2bb37d.lsf100%  
 	    New File  		    2198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\3374f56e-9ad7-f3c7-ba95-e62d72dfcef6.lsf100%  
-	    New File  		    3290	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\3382b77b-53cd-db10-9623-682c0e32a314.lsf100%  
+	    New File  		    3328	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\3382b77b-53cd-db10-9623-682c0e32a314.lsf100%  
 	    New File  		    2203	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\3464d8cc-4035-7b02-4d3c-184a2fd63a62.lsf100%  
-	    New File  		    3301	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\350c8fd9-ac94-b0d4-3597-d4c8bc340569.lsf100%  
-	    New File  		    3679	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\353528a1-b54c-ebc2-ce4f-c26a65835d3b.lsf100%  
+	    New File  		    3337	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\350c8fd9-ac94-b0d4-3597-d4c8bc340569.lsf100%  
+	    New File  		    3715	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\353528a1-b54c-ebc2-ce4f-c26a65835d3b.lsf100%  
 	    New File  		    2165	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\37be50fb-65b1-4b70-27a3-d14bb6033a9f.lsf100%  
 	    New File  		    2191	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\39573590-7b60-1729-a125-75a2303bcfe1.lsf100%  
 	    New File  		    2203	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\3976c77e-1fe3-64c0-71a1-2caf31f4c304.lsf100%  
@@ -802,18 +830,20 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2200	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\452bffbb-4806-ebf5-d0a2-543ed8bd1552.lsf100%  
 	    New File  		   14275	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\454a3776-64c3-d91b-22ba-d1ac64081b03.lsf100%  
 	    New File  		    2182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\4618fee4-fb72-44bc-2050-547a3449aaec.lsf100%  
-	    New File  		    3682	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\4620fc98-a2b0-7d72-8e11-d9f65df37510.lsf100%  
+	    New File  		    3718	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\4620fc98-a2b0-7d72-8e11-d9f65df37510.lsf100%  
 	    New File  		    2197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\463ebd4f-4c51-afdc-c2f8-af166690b078.lsf100%  
 	    New File  		    2183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\46451449-4a94-32f1-ec82-671c17be241e.lsf100%  
 	    New File  		    2200	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\467fff6a-5a38-bf63-0425-883ad5d57702.lsf100%  
 	    New File  		    2174	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\48f039df-7005-84d5-3a67-964084ee8e4b.lsf100%  
 	    New File  		    2198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\493a24ad-cc0c-bc48-0e47-28ec7a0b9607.lsf100%  
-	    New File  		    3673	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\4a3489ec-26a3-ce11-4dbe-a5662ae4d5c8.lsf100%  
+	    New File  		    3719	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\495e6eca-7e4f-49dc-a405-c2af53acb714.lsf100%  
+	    New File  		    3711	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\4a3489ec-26a3-ce11-4dbe-a5662ae4d5c8.lsf100%  
 	    New File  		    2233	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\4ba6c93c-70ba-d996-bed3-8fb32122530c.lsf100%  
 	    New File  		    2217	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\4c7a12c8-166e-548d-87fb-424d50095bdc.lsf100%  
 	    New File  		    2218	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\4d6ea137-ccc9-d67a-246b-499291c0a746.lsf100%  
 	    New File  		    2200	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\4dd8f433-fb55-9ad0-cd2c-94d1b15df151.lsf100%  
 	    New File  		    2204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\4f49617d-4aeb-6e7b-f7ed-97559da4af3d.lsf100%  
+	    New File  		    3725	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\52af2cbd-2153-440e-a5c2-a0f613503b8d.lsf100%  
 	    New File  		  253289	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\52e8e6f0-5a79-03f8-ae52-d924265bf187.lsf100%  
 	    New File  		   14794	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\555f3c53-9c2a-7bd9-2e10-92ba4b501ad5.lsf100%  
 	    New File  		    2204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\557302e9-2634-7d8d-f4a0-5bf68d504a4b.lsf100%  
@@ -822,12 +852,13 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2196	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\5a72503f-ad11-9bb3-72db-d16865d6a370.lsf100%  
 	    New File  		    2194	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\5ac7055f-55c4-5d97-095b-395cfbca9385.lsf100%  
 	    New File  		    2194	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\5e037156-8b28-ca81-c2a2-9897af3e526e.lsf100%  
-	    New File  		    3302	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\5e81389d-b15e-7b47-781f-5c388debbf00.lsf100%  
+	    New File  		    3338	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\5e81389d-b15e-7b47-781f-5c388debbf00.lsf100%  
 	    New File  		    2198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\5f1736c6-4e1e-326a-3a33-9cd6f64b8c1b.lsf100%  
 	    New File  		    1640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\60cd21e2-99e7-4ef1-fcbe-3cfb0858d70f.lsf100%  
 	    New File  		    2980	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\610f5cc4-c2bc-7465-6a19-767f574a274f.lsf100%  
 	    New File  		    2206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\61a270c4-f1af-4a8b-093d-43b763119cac.lsf100%  
 	    New File  		    5834	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\63218adc-cf7b-2a98-2175-d44c02d021ff.lsf100%  
+	    New File  		    3335	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\63faf8a7-d493-4d14-95a4-61c9d6cde2c8.lsf100%  
 	    New File  		    1837	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\655fca9b-4be5-6f5c-4a07-9e49b695306a.lsf100%  
 	    New File  		    2186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\6807939a-d453-a55e-6177-a48a41678790.lsf100%  
 	    New File  		    2207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\6812abe8-f6f3-ffd2-d311-80cf9379471e.lsf100%  
@@ -836,7 +867,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2167	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\6b38d662-629b-1e5c-9b00-3f5b4a807d7a.lsf100%  
 	    New File  		    2214	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\6bf615f0-d152-9d67-8abb-da43ad6c725f.lsf100%  
 	    New File  		   32308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\6c26ebdf-50eb-62f4-4085-3a584f2de736.lsf100%  
-	    New File  		    2840	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\6f102307-026c-445a-a4d9-19ddf436402a.lsf100%  
+	    New File  		    2876	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\6f102307-026c-445a-a4d9-19ddf436402a.lsf100%  
 	    New File  		    2177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\7027686f-ffcd-b2f9-2a72-5f4333e3b983.lsf100%  
 	    New File  		    2189	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\702cd8ea-32ef-6d86-9582-892fe073c9ea.lsf100%  
 	    New File  		    2209	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\704118a1-e95d-e7c0-ebb9-ba051248b00d.lsf100%  
@@ -851,29 +882,31 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\75186d7b-aa1b-665e-6c98-f595731307a1.lsf100%  
 	    New File  		    2192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\75b51f3e-90e8-559d-8496-df33da81a9f8.lsf100%  
 	    New File  		    2214	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\78c7bf57-15e4-d1fc-eb4d-ff3516b34630.lsf100%  
-	    New File  		    3680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\7950ede6-aa6e-2c24-bd90-395f55c08eab.lsf100%  
+	    New File  		    3718	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\7950ede6-aa6e-2c24-bd90-395f55c08eab.lsf100%  
 	    New File  		    2968	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\7a338cc3-cf7c-69de-d45f-8037f03a6b9e.lsf100%  
 	    New File  		    1634	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\7b69ebf2-111e-a46b-87ad-0fea300206a7.lsf100%  
 	    New File  		    2193	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\7b6e15b9-238c-be49-f5c9-3b8a0da03a42.lsf100%  
 	    New File  		    2186	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\7be534cc-3768-99bf-3bea-c47a0dd03f04.lsf100%  
-	    New File  		    3675	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\7cd1f064-40f3-1903-c36e-7c4875d31e42.lsf100%  
+	    New File  		    3711	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\7cd1f064-40f3-1903-c36e-7c4875d31e42.lsf100%  
 	    New File  		    1637	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\7d634e10-fc38-eb90-c6df-49bf60ecf634.lsf100%  
 	    New File  		    2177	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\7dd3007a-2199-f968-0a6d-f833b61bb47a.lsf100%  
 	    New File  		    2195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\7e101864-43ed-e925-54da-79d608737047.lsf100%  
 	    New File  		    2194	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\7eae724a-22f5-1966-0c30-6fb84e9e90e1.lsf100%  
 	    New File  		    2214	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\80bd4546-7eb5-ce9a-c2d1-14af68dff84f.lsf100%  
-	    New File  		    3685	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\833d69ac-65b8-d178-65b2-bb7e30dc4329.lsf100%  
+	    New File  		    3722	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\8203f038-d175-4bf7-a5de-47d73c61df11.lsf100%  
+	    New File  		    3721	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\833d69ac-65b8-d178-65b2-bb7e30dc4329.lsf100%  
 	    New File  		  254679	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\837529f5-cb98-92a8-3147-c5a09d4286c8.lsf100%  
 	    New File  		   13551	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\83f6bc5a-2505-df72-b7cb-d849bda24d02.lsf100%  
 	    New File  		    2212	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\84108e1c-613d-5fd1-95b3-1523cf101b21.lsf100%  
 	    New File  		    2187	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\85baf864-4624-1f4c-3d43-b9d847107360.lsf100%  
 	    New File  		    2197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\89eeb94c-03d3-8053-c87f-04eab87b854d.lsf100%  
+	    New File  		    3718	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\8aece7c1-01ac-49a6-853f-aad896f583e5.lsf100%  
 	    New File  		    2224	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\8c94bfb8-0180-f5f5-05b1-ab9d8119cf6d.lsf100%  
 	    New File  		    2182	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\8d985108-e384-7d8b-b82a-b6dd4707e421.lsf100%  
 	    New File  		    1642	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\8dfe11cc-9c6c-a799-3ca4-f084e1b23132.lsf100%  
 	    New File  		    1642	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\8f5f6d5b-d720-0f1f-60fb-09ef3aaba05e.lsf100%  
 	    New File  		    3363	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\8fb23cd9-149c-38f3-8081-6840701aa3b3.lsf100%  
-	    New File  		    3298	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\90612a48-44bd-445e-9db4-de6f42e52b7f.lsf100%  
+	    New File  		    3329	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\90612a48-44bd-445e-9db4-de6f42e52b7f.lsf100%  
 	    New File  		    2980	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\90c24542-d3bd-5a05-dba7-27093bc06726.lsf100%  
 	    New File  		    3342	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\910cba87-b846-425b-1695-4d5975197554.lsf100%  
 	    New File  		    2191	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\911ffe54-1903-98bb-c69d-b25bdd347473.lsf100%  
@@ -882,15 +915,17 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2221	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\96e834df-6eb1-dec3-de1f-8314d7fe8ab6.lsf100%  
 	    New File  		    1640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\9728d5e8-17c9-5be9-aa72-9ea76fff2ad0.lsf100%  
 	    New File  		    2195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\97690687-6a96-1fcf-b59f-da2e9733d06c.lsf100%  
-	    New File  		    3678	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\9af70c10-ebba-9cd8-237a-52dcd746333f.lsf100%  
+	    New File  		    3714	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\9af70c10-ebba-9cd8-237a-52dcd746333f.lsf100%  
 	    New File  		    2969	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\9cc05fda-c375-4f16-951a-ebdefaa92961.lsf100%  
+	    New File  		    3722	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\9cc10fdd-994f-4149-9e2a-9efc19ca7b2d.lsf100%  
 	    New File  		    2206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\9e5c8c2f-070b-835e-384c-406ff9dcd168.lsf100%  
 	    New File  		    2191	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a11cd42e-bc34-4628-43e6-ea9950f43a39.lsf100%  
 	    New File  		    2195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a17aeaee-aab3-432e-5feb-4a3150b15150.lsf100%  
 	    New File  		    6497	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a33d3dea-8512-b38b-db7d-f35cdc23a06a.lsf100%  
 	    New File  		    9580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a353fbb8-3616-4751-e620-91e28119ee09.lsf100%  
 	    New File  		    1642	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a407c23c-b434-c14b-a91b-3f69b1260849.lsf100%  
-	    New File  		    3672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a4341b7d-351e-498c-a596-7b652410334f.lsf100%  
+	    New File  		    3708	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a4341b7d-351e-498c-a596-7b652410334f.lsf100%  
+	    New File  		    3345	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a674cfe4-6fb8-4e65-91f6-e473a82236bc.lsf100%  
 	    New File  		    2217	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a7a4ea01-7846-03e4-c4bb-843ba8245168.lsf100%  
 	    New File  		    2188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a7e7f2ee-2c61-066f-a9c0-55cfb249c3cf.lsf100%  
 	    New File  		  375424	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\a98cbf7f-ab2a-bc7c-985d-defd3ae042fb.lsf100%  
@@ -913,14 +948,16 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\b472df34-d4f4-655f-412a-81d0ceecf1c6.lsf100%  
 	    New File  		    1649	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\b589af65-9c46-0422-32be-6710924839b7.lsf100%  
 	    New File  		    1640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\b634ee18-a675-b17a-03ce-761606030ce4.lsf100%  
+	    New File  		    3719	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\b6c20fb7-ee23-4859-a7d5-c7fe1b8b56f8.lsf100%  
 	    New File  		    3229	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\b6c84903-9466-25ad-3343-cdc448d5f079.lsf100%  
 	    New File  		   14796	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\b7683ac7-1065-fa9c-637d-4c86da4cd32b.lsf100%  
-	    New File  		    3676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\b76c3a55-6a57-a188-5429-20bc4a4bffec.lsf100%  
+	    New File  		    3712	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\b76c3a55-6a57-a188-5429-20bc4a4bffec.lsf100%  
 	    New File  		    3358	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\b88d9aff-94c5-7741-5557-51f9801a69d1.lsf100%  
 	    New File  		    2195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\baeca0f5-2e97-55a7-f108-4a24c5c2058b.lsf100%  
 	    New File  		    2188	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\bd14471d-2a70-df7d-0f7f-5a8741232541.lsf100%  
+	    New File  		    3345	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\bd55f8d4-1197-4b18-bbe5-72a3e4a7f895.lsf100%  
 	    New File  		    2195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\bddc8439-4a10-b633-9388-3dd6bb9b9bc4.lsf100%  
-	    New File  		    3685	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\be3092e4-49bb-c3e4-4294-ed2ccbd6feda.lsf100%  
+	    New File  		    3723	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\be3092e4-49bb-c3e4-4294-ed2ccbd6feda.lsf100%  
 	    New File  		    2206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\be439d15-a6e8-57e3-b6a4-e39c1d963a0a.lsf100%  
 	    New File  		    2194	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\be46288e-7cc9-f921-b4ec-4cf358062a4f.lsf100%  
 	    New File  		    2198	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\be469d39-7289-7233-524a-9ef129a64a70.lsf100%  
@@ -936,17 +973,20 @@ SECTION 2: COPY OPERATIONS
 	    New File  		   13548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\c8ff30c2-560f-863b-4d4e-d1d6316ab63d.lsf100%  
 	    New File  		    2218	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\cb5ec1c6-a22b-0c12-1ef6-f4c278ba4039.lsf100%  
 	    New File  		    8515	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\cd96d4b8-8d0e-050c-6948-f8e76ffbd08b.lsf100%  
-	    New File  		    3676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\cfc9f0b1-01c5-46b0-82ac-9fa96070596e.lsf100%  
+	    New File  		    3712	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\cfc9f0b1-01c5-46b0-82ac-9fa96070596e.lsf100%  
 	    New File  		    7851	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d01f14d0-e6d3-32f4-7653-e7be59ffe07c.lsf100%  
 	    New File  		    1651	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d07c6c6e-d93a-f70a-f0a6-63b253ffca5f.lsf100%  
 	    New File  		    2193	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d0c239bb-c87a-e361-1c29-80cfa15218e2.lsf100%  
 	    New File  		    1639	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d1249c4a-ca4b-189c-08ad-4881678debf0.lsf100%  
 	    New File  		    2194	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d1485a5a-fe97-a80d-75ec-4b95b04bca57.lsf100%  
 	    New File  		    2204	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d1b4aca1-7589-3ae3-bff0-7ea36f7772f9.lsf100%  
+	    New File  		    3722	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d62ff017-6f85-4a71-b21c-ad17b13cc7d3.lsf100%  
 	    New File  		    2180	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d6d28cb1-1690-d2a3-8ae7-ead676118779.lsf100%  
 	    New File  		    1640	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d7278815-35e1-6b8f-0885-6a4fbe57ec09.lsf100%  
 	    New File  		    2184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d793e895-1cb4-c8a0-0454-56fe85487ab3.lsf100%  
 	    New File  		    1637	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\d8ed1169-e1e2-9759-3eef-71c9d2b34d9c.lsf100%  
+	    New File  		    3730	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\daad3e7e-ff22-4234-bcb4-630165f122cc.lsf100%  
+	    New File  		    3721	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\daae1f4f-d69d-4181-8d05-f002f2047ca6.lsf100%  
 	    New File  		    2197	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\dd878bfd-d4b7-12d0-dff9-bce8b27f87bf.lsf100%  
 	    New File  		    8508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\dda0ce23-a8e0-3c0f-4aa7-f3c4bc739f16.lsf100%  
 	    New File  		    2194	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\de5295cb-5988-4c90-7636-5b770f3822ef.lsf100%  
@@ -959,21 +999,23 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    9139	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\e59e9aa1-e64a-4c0b-6009-84f6f926c666.lsf100%  
 	    New File  		    8680	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\e5d05bc6-828f-b5c1-2717-93c8f476b906.lsf100%  
 	    New File  		   13551	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\e65a0051-236c-1354-27a5-c3363d006335.lsf100%  
+	    New File  		    3715	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\ec0ef76e-7150-459b-bb36-b1c104a9403c.lsf100%  
 	    New File  		    3285	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\ec8d1174-000c-0c8b-8ea2-b31c674ea095.lsf100%  
 	    New File  		    2192	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\edcff86d-1bd1-4953-ef0b-3acafdb0c121.lsf100%  
 	    New File  		    2207	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\eef27999-f474-ed09-6155-0d8639eb0ec1.lsf100%  
+	    New File  		    3730	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\ef9fbd48-540c-4f6f-8e63-bc8318c6dc9e.lsf100%  
 	    New File  		   13548	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\f1c78dfe-bfe1-9a23-727e-9fa9a51a93f8.lsf100%  
 	    New File  		    2206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\f4daa20b-232d-dcf4-13ca-8065aeea32ab.lsf100%  
-	    New File  		    3684	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\f542d850-9590-03ae-6689-5ff28782f152.lsf100%  
+	    New File  		    3720	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\f542d850-9590-03ae-6689-5ff28782f152.lsf100%  
 	    New File  		    2171	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\f741207d-728c-a022-13c7-45e9d9d26884.lsf100%  
 	    New File  		    2206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\f7951d2d-489c-60a7-af59-abddf77300dd.lsf100%  
 	    New File  		    2195	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\f7ab2fba-8eba-20ad-c1ed-2bfa1db7ae07.lsf100%  
 	    New File  		    2196	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\fabd1b7f-5c5c-2f8d-5f0d-2bc9da2df985.lsf100%  
 	    New File  		    2962	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\fb8904b4-6eea-c452-1365-04fc7cf32347.lsf100%  
-	    New File  		    3679	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\fba2eae7-52c6-fab0-2f0e-3acaeba35281.lsf100%  
+	    New File  		    3715	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\fba2eae7-52c6-fab0-2f0e-3acaeba35281.lsf100%  
 	    New File  		    2189	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\fc0ed878-ef51-2176-fe9d-eecd8bff005b.lsf100%  
 	    New File  		    2206	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\fd81277f-7767-1503-8bd6-803ecf740088.lsf100%  
-	    New File  		    3302	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\fe23dacc-d5c8-09d0-fbc5-3f1a365e5c8b.lsf100%  
+	    New File  		    3338	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\fe23dacc-d5c8-09d0-fbc5-3f1a365e5c8b.lsf100%  
 	    New File  		    1618	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\fe9bcb58-6002-abe0-39eb-ab64e5d19cb2.lsf100%  
 	    New File  		    2178	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\ffaa939f-9856-0faf-1f12-b2ca9d175fa2.lsf100%  
 	    New File  		    2183	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Content\[PAK]_DGB_Wings_pack_AkELkA\ffc58415-e270-4720-8a92-73cf1c560388.lsf100%  
@@ -985,7 +1027,7 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    1043	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Stats\Generated\Data\Spell_Projectile.txt100%  
 	    New File  		    1211	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Stats\Generated\Data\Status_BOOST.txt100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Assets\_Female\Textures\Wings\DGB_F_Cambion_Wings_A\DGB_CMBN_F_Wings_A_B1_CTLO.dds100%  
-	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Assets\_Female\Textures\Wings\DGB_F_Cambion_Wings_A\DGB_CMBN_F_Wings_A_B1_DB_DMSK.DDS100%  
+	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Assets\_Female\Textures\Wings\DGB_F_Cambion_Wings_A\DGB_CMBN_F_Wings_A_B1_DB_DMSK.DDS 74%  100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Assets\_Female\Textures\Wings\DGB_F_Cambion_Wings_A\DGB_CMBN_F_Wings_A_B1_DMSK.DDS100%  
 	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Assets\_Female\Textures\Wings\DGB_F_Cambion_Wings_A\DGB_CMBN_F_Wings_A_B1_HMVY.dds100%  
 	    New File  		   2.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Assets\_Female\Textures\Wings\DGB_F_Cambion_Wings_A\DGB_CMBN_F_Wings_A_B1_MSK.DDS100%  
@@ -1028,14 +1070,6 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  263944	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Extra\DGB_CMBN_F_Wing_Rig_DFLT_CUST_Wingspread_01_50_3.GR2100%  
 	    New File  		  166056	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Extra\DGB_CMBN_F_Wing_Rig_DFLT_DIE_Generic_Lifetime_01_27.GR2100%  
 	    New File  		  454020	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Extra\DGB_CMBN_F_Wing_Rig_DFLT_UTIL_Spawn_01_122_5.GR2100%  
-	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Idle_Still\DGB_CMBN_F_Wing_Rig_DFLT_IDLE_CC_Peace_01_440.GR2100%  
-	    New File  		  294196	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Idle_Still\DGB_CMBN_F_Wing_Rig_DFLT_IDLE_Neutral_Peace_01_Tr_78_2.GR2100%  
-	    New File  		  583152	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Idle_Still\DGB_CMBN_F_Wing_Rig_DFLT_IDLE_Random_Combat_01_125_1.GR2100%  
-	    New File  		  847024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Idle_Still\DGB_CMBN_F_Wing_Rig_DFLT_IDLE_Random_Peace_01_187_3.GR2100%  
-	    New File  		  812976	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Idle_Still\DGB_CMBN_F_Wing_Rig_DFLT_IDLE_Random_Peace_02_179_3.GR2100%  
-	    New File  		  812976	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Idle_Still\DGB_CMBN_F_Wing_Rig_DFLT_IDLE_Random_Peace_03_179_3.GR2100%  
-	    New File  		  296544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Idle_Still\DGB_CMBN_F_Wing_Rig_DFLT_IDLE_Still_Combat_01_60_1.GR2100%  
-	    New File  		   1.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Idle_Still\DGB_CMBN_F_Wing_Rig_DFLT_IDLE_Still_Peace_01_530_1.GR2100%  
 	    New File  		   83128	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Fly\DGB_CMBN_F_Wing_Rig_DFLT_CMBT_Skill_Fly_01_Cast_8_1.GR2100%  
 	    New File  		  357576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Fly\DGB_CMBN_F_Wing_Rig_DFLT_CMBT_Skill_Fly_01_Loop_72_3.GR2100%  
 	    New File  		  357580	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Fly\DGB_CMBN_F_Wing_Rig_DFLT_CMBT_Skill_Fly_01_PitchD_72_1.GR2100%  
@@ -1048,6 +1082,14 @@ SECTION 2: COPY OPERATIONS
 	    New File  		  345784	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Fly\DGB_CMBN_F_Wing_Rig_DFLT_CMBT_Skill_Fly_01_YawR_72_1.GR2100%  
 	    New File  		  327796	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Fly\DGB_CMBN_F_Wing_Rig_DFLT_CMBT_Skill_Fly_Combat_01_Landing_65_1.GR2100%  
 	    New File  		  446960	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Fly\DGB_CMBN_F_Wing_Rig_DFLT_CMBT_Skill_Fly_Peace_01_Landing_93_3.GR2100%  
+	    New File  		   1.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Idle_Still\DGB_CMBN_F_Wing_Rig_DFLT_IDLE_CC_Peace_01_440.GR2100%  
+	    New File  		  294196	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Idle_Still\DGB_CMBN_F_Wing_Rig_DFLT_IDLE_Neutral_Peace_01_Tr_78_2.GR2100%  
+	    New File  		  583152	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Idle_Still\DGB_CMBN_F_Wing_Rig_DFLT_IDLE_Random_Combat_01_125_1.GR2100%  
+	    New File  		  847024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Idle_Still\DGB_CMBN_F_Wing_Rig_DFLT_IDLE_Random_Peace_01_187_3.GR2100%  
+	    New File  		  812976	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Idle_Still\DGB_CMBN_F_Wing_Rig_DFLT_IDLE_Random_Peace_02_179_3.GR2100%  
+	    New File  		  812976	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Idle_Still\DGB_CMBN_F_Wing_Rig_DFLT_IDLE_Random_Peace_03_179_3.GR2100%  
+	    New File  		  296544	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Idle_Still\DGB_CMBN_F_Wing_Rig_DFLT_IDLE_Still_Combat_01_60_1.GR2100%  
+	    New File  		   1.6 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Idle_Still\DGB_CMBN_F_Wing_Rig_DFLT_IDLE_Still_Peace_01_530_1.GR2100%  
 	    New File  		  115000	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Jump_Flight\DGB_CMBN_F_Wing_Rig_DFLT_CMBT_Skill_JumpFlight_01_Ascend_15_1.GR2100%  
 	    New File  		   89464	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Jump_Flight\DGB_CMBN_F_Wing_Rig_DFLT_CMBT_Skill_JumpFlight_01_Cast_9_1.GR2100%  
 	    New File  		   97980	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Body_EL_Wings_A_Anim\Jump_Flight\DGB_CMBN_F_Wing_Rig_DFLT_CMBT_Skill_JumpFlight_01_Descend_11_1.GR2100%  
@@ -1118,6 +1160,10 @@ SECTION 2: COPY OPERATIONS
 	    New File  		     214	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_HIDDEN.xml100%  
 	    New File  		  626464	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_VFX_1.GR2100%  
 	    New File  		  626464	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_VFX_A1.GR2100%  
+	    New File  		  638376	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_VFX_A1_COPY.GR2100%  
+	    New File  		     219	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_VFX_A1_COPY.xml100%  
+	    New File  		  638376	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_VFX_A1_HIDDEN.GR2100%  
+	    New File  		     221	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_VFX_A1_HIDDEN.xml100%  
 	    New File  		  638376	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_VFX_A2.GR2100%  
 	    New File  		     214	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_B_VFX_A2.xml100%  
 	    New File  		  626412	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\DGB_Wings\Generated\Public\AkELkA_DGB\DGB_M_NKD\DGB_M_Body_EL_Wings_A\Wings\DGB_CMBN_M_Wings_A_C_VFX_1.GR2100%  
@@ -1171,22 +1217,22 @@ SECTION 2: COPY OPERATIONS
 
                Total    Copied   Skipped  Mismatch    FAILED    Extras
     Dirs :        71        71         1         0         0         0
-   Files :       438       438         0         0         0         0
-   Bytes :  140.46 m  140.46 m         0         0         0         0
-   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+   Files :       461       461         0         0         0         0
+   Bytes :  141.74 m  141.74 m         0         0         0         0
+   Times :   0:00:01   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           1550434621 Bytes/sec.
-   Speed :            88716.580 MegaBytes/min.
-   Ended : Thursday, February 5, 2026 8:38:31 PM
+   Speed :           517891891 Bytes/sec.
+   Speed :           29634.011 MegaBytes/min.
+   Ended : Friday, February 6, 2026 8:57:40 AM
 
  
 [DEBUG] Counting source files 
-[DEBUG] Total files counted: 438 
-[DEBUG] Successfully copied files: 438 
+[DEBUG] Total files counted: 461 
+[DEBUG] Successfully copied files: 461 
 [LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a: 
-      Total files: 438 
-      Copied successfully: 438 
+      Total files: 461 
+      Copied successfully: 461 
       Skipped: 0 
       Mismatched: 0 
       Failed: 0 
@@ -1204,7 +1250,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Thursday, February 5, 2026 8:38:32 PM
+  Started : Friday, February 6, 2026 8:57:41 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\
      Dest : C:\GIT_BG3\MOD_REPOS\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\Generated\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a\
 
@@ -1230,9 +1276,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           2620081600 Bytes/sec.
-   Speed :           149922.271 MegaBytes/min.
-   Ended : Thursday, February 5, 2026 8:38:32 PM
+   Speed :           1190946181 Bytes/sec.
+   Speed :            68146.487 MegaBytes/min.
+   Ended : Friday, February 6, 2026 8:57:41 AM
 
  
 [DEBUG] Counting source files 
@@ -1265,7 +1311,7 @@ SECTION 3: FALLBACK COPY ATTEMPTS
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
-[LOG] Files copied by xcopy: 438 
+[LOG] Files copied by xcopy: 461 
 [LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a 
 [LOG] Xcopy completed with code: 0 
 [LOG] Xcopy fallback successful 
@@ -1274,8 +1320,8 @@ SECTION 4: FINAL SUMMARY
 ------------------------------------------------------------------------ 
  
 [SUMMARY] Total mod folders found: 1 
-[SUMMARY] Total files found: 483 
-[SUMMARY] Total files successfully copied: 966 
+[SUMMARY] Total files found: 506 
+[SUMMARY] Total files successfully copied: 1012 
  
 [SUMMARY] All files were copied successfully 
  
