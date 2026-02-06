@@ -140,7 +140,7 @@
   <content contentuid="hf9b9824dgc0a3g0fa6g7260gbeaa474aadff" version="1">Ability to flight grows with you</content>
   <content contentuid="hce0dcd38ge256g28acg609dgda0e407865f7" version="1">Hide the wings in dialog</content>
   <content contentuid="h4e2bf432g63e5gd8edge600g38b337f890c5" version="1">Hover instead of running</content>
-  <content contentuid="ha11ee15bgb901g0f7ag7e56g0dc25936afaf" version="1">Shadow Wings- Dialog Hidden</content>
+  <content contentuid="ha11ee15bgb901g0f7ag7e56g0dc25936afaf" version="2">Shadow Wings - Dialog Hidden</content>
   <content contentuid="h0d6db6fbg3078gb2b0g7aadg8dea4d54cd9e" version="1">ShadowCursed Wings - Dialog Hidden</content>
   <content contentuid="hc116d3d8gc688g51edgecfbg9654cb6c81b9" version="1">HellFire Wings - Dialog Hidden</content>
   <content contentuid="h8d251c9ag4784g8abbg1c35g5d6f037ad2c9" version="1">HolyFire Wings - Dialog Hidden</content>
@@ -152,11 +152,31 @@
   <content contentuid="hc7108cd7g289eg459fgeb10g610e2a998df8" version="1">Acid Wings - Dialog Hidden</content>
   <content contentuid="h4849c3deg9a67g5662gec0dg43248e08091d" version="2">Ghost Wings A - Dialog Hidden</content>
   <content contentuid="h66067fbag64c2g2af3gf40bg337b9ac733c4" version="2">Ghost Wings B - Dialog Hidden</content>
-  <content contentuid="hceb83a67g8ccdgd99fge7abg2b9851cc7a33" version="1">Shadow Cursed Ghost Wings A</content>
-  <content contentuid="h3a540ce9g425fg7ef8g1cc6g8af7a03649a3" version="1">Shadow Cursed Ghost Wings B</content>
-  <content contentuid="h8159f100gfb5eg96a7g8efega6772ad104d2" version="1">Shadow Cursed Ghost Wings C</content>
+  <content contentuid="hceb83a67g8ccdgd99fge7abg2b9851cc7a33" version="2">Shadow Cursed Ghost Wings A - Dialog Hidden</content>
+  <content contentuid="h3a540ce9g425fg7ef8g1cc6g8af7a03649a3" version="2">Shadow Cursed Ghost Wings B - Dialog Hidden</content>
+  <content contentuid="h8159f100gfb5eg96a7g8efega6772ad104d2" version="2">Shadow Cursed Ghost Wings C - Dialog Hidden</content>
   <content contentuid="h5e04c564g65b2g6188gbcc6g1d69e061c9a7" version="2">Shar Shadow Wings A - Dialog Hidden</content>
   <content contentuid="h1efe1a21gc088g5af0g82fegdc85081bdcf7" version="2">Shar Shadow Wings B - Dialog Hidden</content>
   <content contentuid="haa4a056cg5354ga7beg7f45g9090c1104428" version="2">Blood Shadow Wings A - Dialog Hidden</content>
   <content contentuid="hea7e00f5ga3ccg13begcc89g1d6fa325302e" version="2">Blood Shadow Wings B - Dialog Hidden</content>
+  <content contentuid="h6c2b60c8g574eg33ccgdb7bga3a8cb24ce13" version="2">Fiendish Spire Wings - Dialog Hidden</content>
+  <content contentuid="h23309b0fgdedbgb375gef76g49abf297ba5d" version="2">Shadow Wings - Dialog Hidden</content>
+  <content contentuid="h16361d81g0593g9883g57a3g1e4546bd9c83" version="2">ShadowCursed Wings - Dialog Hidden</content>
+  <content contentuid="h192bb141g9c81g1bfbg9d9fgc60e0be211ac" version="2">HellFire Wings - Dialog Hidden</content>
+  <content contentuid="hdd5dd092g10cegd537g293eg19b5a2d17d69" version="2">HolyFire Wings - Dialog Hidden</content>
+  <content contentuid="h8fff5965g0680gf670g5b77gf12aa29f0da7" version="1">Lightning Wings - Dialog Hidden</content>
+  <content contentuid="h04ca0515g5f72g06c4g4b9dgadca512e53ef" version="2">Sorc Lightning Wings - Dialog Hidden</content>
+  <content contentuid="h44178a45gf063g95d5g0e01ge10d2ebe2624" version="2">Shar Shadow Wings - Dialog Hidden</content>
+  <content contentuid="hb280f7fdg7482g62aag1f8ag13aa6df123ba" version="2">Blood Shadow Wings - Dialog Hidden</content>
+  <content contentuid="h7b275992g7ec1g2d7cg336cg099feb3470b4" version="1">ShadowCursed Wings B - Dialog Hidden</content>
+  <content contentuid="hc1058691gb991g652dgf2cdgf4e0f160c36e" version="1">Acid Wings - Dialog Hidden</content>
+  <content contentuid="h8d07d633gf6a9g6a26gbce9geefc3ba6a953" version="2">Ghost Wings A - Dialog Hidden</content>
+  <content contentuid="h9a6b5138gd8efgff86g6126ga71e62244965" version="2">Ghost Wings B - Dialog Hidden</content>
+  <content contentuid="h9fed8254gb766g335fgc1dcg439a58288b06" version="2">Shadow Cursed Ghost Wings A - Dialog Hidden</content>
+  <content contentuid="h7fc257bcgc723ga8fdgbe1eg3588747f8ae3" version="2">Shadow Cursed Ghost Wings B - Dialog Hidden</content>
+  <content contentuid="h0e53c20egffcdgd46eg382fg37c10b897beb" version="2">Shadow Cursed Ghost Wings C - Dialog Hidden</content>
+  <content contentuid="h1ea4702bg155eg49d9g6dfeg4207fbb72405" version="2">Shar Shadow Wings A - Dialog Hidden</content>
+  <content contentuid="hb9a16ed9g28e6g66dag1e0ag2f6c8b1091ed" version="2">Shar Shadow Wings B - Dialog Hidden</content>
+  <content contentuid="hdcb356deg4f13g12b5g8469g1479a61e918e" version="2">Blood Shadow Wings A - Dialog Hidden</content>
+  <content contentuid="h4480921ag274fg8df2gf2a6g74650e05c3ff" version="2">Blood Shadow Wings B - Dialog Hidden</content>
 </contentList>
