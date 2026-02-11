@@ -3,26 +3,6 @@
   <stat_objects>
     <stat_object is_substat="false">
       <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="d5a508c0-5f4e-4986-9683-4b7823056bba" />
-        <field name="Name" type="NameTableFieldDefinition" color="#FF4B0082" value="EL_SW_WINGS_HIDING" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h05368867g9522gccefg24a6ge94a83f9cc6a" version="2" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hce0dcd38ge256g28acg609dgda0e407865f7" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_SW_WIing_Pose_A" />
-        <field name="DynamicAnimationTag" type="GuidObjectTableFieldDefinition" color="#FF4B0082" value="3507d6ec-573f-4664-91db-8adb2913d353" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
-        <field name="UUID" type="IdTableFieldDefinition" value="decbe36d-aa4b-4d8e-9af8-3189892ee6e4" />
-        <field name="Name" type="NameTableFieldDefinition" color="#FF800080" value="EL_SW_WINGS_HOVER" />
-        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h64af2a4bg63b1g0e7bgc7bcg7c38e5c7226c" version="1" />
-        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h4e2bf432g63e5gd8edge600g38b337f890c5" version="1" />
-        <field name="Icon" type="StringTableFieldDefinition" value="Skill_SW_WIing_Hover" />
-        <field name="DynamicAnimationTag" type="GuidObjectTableFieldDefinition" color="#FF800080" value="db1a5fc6-8fc6-469d-b46e-4f54345a6282" />
-      </fields>
-    </stat_object>
-    <stat_object is_substat="false">
-      <fields>
         <field name="UUID" type="IdTableFieldDefinition" value="5ce6f0c5-a30e-45a2-bd2c-85a1d820c6e4" />
         <field name="Name" type="NameTableFieldDefinition" color="#FF191970" value="EL_SW_WINGS_FLIGHT" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf6f9fcb7g543fg1997g17bdg792d9f179ebd" version="1" />

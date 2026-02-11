@@ -3,7 +3,7 @@
   <stat_objects>
     <stat_object is_substat="false">
       <fields>
-        <field name="Name" type="NameTableFieldDefinition" color="#FF4B0082" value="EL_SW_Wings_HIDE" />
+        <field name="Name" type="NameTableFieldDefinition" color="#FF4B0082" value="EL_SW_Wings_POSE_SWAP" />
         <field name="UUID" type="IdTableFieldDefinition" value="3507d6ec-573f-4664-91db-8adb2913d353" />
         <field name="Priority" type="IntegerTableFieldDefinition" value="1" />
       </fields>

@@ -37,6 +37,21 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="had4c6cc2g70c9gda74ga502g4334d7758f6e" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="d95afe19-004f-4f17-8d81-0be6b6a6208c"/>
+                    <attribute id="VisualResource" type="guid" value="848ef485-4df3-4716-82c3-e9eec8452e7c"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h60acdb39gaacfg8671gf7f9g65ae1453a21e" version="4"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowWings"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
@@ -58,6 +73,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="aa7cef71-239b-43fc-8888-b081f29e6c51"/>
                     <attribute id="VisualResource" type="guid" value="8203f038-d175-4bf7-a5de-47d73c61df11"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd38806a7geeacg8073g18d5g052a651631b9" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowWings_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="b024bc41-8de9-40ab-9044-217622a336d8"/>
+                    <attribute id="VisualResource" type="guid" value="da4b5d02-f41e-4569-b6ee-61ccc5495337"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -97,6 +127,21 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hcd5073a9g83a1g98cdgc8f5g917f4414b162" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="354c1118-38b0-421b-93e9-f9d612390c5a"/>
+                    <attribute id="VisualResource" type="guid" value="89db6793-05d1-45a1-96db-1ea079aeb7fe"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h2c33a66eg1027gff68g6d4agf8a39e2a36a4" version="3"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_HellFire"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
@@ -127,6 +172,21 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h06b6992egdbb4g5ed7ge5cdg4e6d7aaf4d84" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_HellFire_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="fcb9f76f-e893-40a6-8055-c14e342ade0f"/>
+                    <attribute id="VisualResource" type="guid" value="53ad019e-c035-4abe-8441-f9ce790a7469"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="ha9306e91g6a0fgf5aega18agd1f53dc46f94" version="5"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_HolyFire"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
@@ -148,6 +208,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="c870036f-71eb-4f84-810f-d0cf538de7a0"/>
                     <attribute id="VisualResource" type="guid" value="b6c20fb7-ee23-4859-a7d5-c7fe1b8b56f8"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hff7cd883g22b4gc148gb7e1ga633a66684e4" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_HolyFire_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="d93b445b-f1aa-40ec-806b-e3d53a830d7f"/>
+                    <attribute id="VisualResource" type="guid" value="c353f845-0224-4cc5-9268-16fb85378a23"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -187,6 +262,21 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8603e744g38afg1389g7d1bg7d133a5b1d7a" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="b2abeeae-0927-4e78-a613-ffe369a56819"/>
+                    <attribute id="VisualResource" type="guid" value="9636408d-e579-411f-8098-3efbe06dbbf2"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h3a100447g5b05g680cgfbaeg09a1f17c80e0" version="2"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowWings"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
@@ -208,6 +298,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="55fa8b3e-4fbe-45fa-8ed2-03a43e426d43"/>
                     <attribute id="VisualResource" type="guid" value="9ffa0fba-a93f-492e-8280-d4c1a99e8a3e"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he59acb55gc913gb5acgb439g4ccb3fbab9da" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowWings_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="fa99368a-6c29-4fe7-9198-8d578c2b5ee9"/>
+                    <attribute id="VisualResource" type="guid" value="014d204e-5a7f-43a5-a0bf-df5c8d9a33b9"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -247,6 +352,21 @@
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h27bc9cb8g078fg5710g01a2gd394b8ed3a10" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="5a554d7d-3672-4fe0-bbdf-09e77a1eac41"/>
+                    <attribute id="VisualResource" type="guid" value="daaa6857-e50a-4421-bd6e-9c613fa7d203"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="ha270a4f2g4411gcc18g1584g120f767a82cb" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_HellFire"/>
                     <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
@@ -268,6 +388,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="84e615e2-ecc7-4a66-b6cb-8296956bbafc"/>
                     <attribute id="VisualResource" type="guid" value="21c5ff8f-8798-4f7a-877f-d75dba31afbb"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h908a572cg9d53gf977ge536g9a10ee19f6f0" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_HellFire_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="ce2f132e-09e8-494c-b784-06e6d03bbe7e"/>
+                    <attribute id="VisualResource" type="guid" value="4393c8fe-2d83-4dd0-8278-00d36ef4b807"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -306,6 +441,21 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h08721e1dg390cg235ag8b0fg7ac3b0fb7c2b" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_HolyFire_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="d801ebb9-5a4e-4a8f-9b94-325f65cb8146"/>
+                    <attribute id="VisualResource" type="guid" value="db3b65b0-0965-4b3e-9942-bbecd3c223e6"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h11c51711g96a7g5fc4g4e1egff85bede2ad3" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Lightning"/>
@@ -328,6 +478,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="bb413ccb-d05f-4f25-8051-248b381bdd08"/>
                     <attribute id="VisualResource" type="guid" value="0f5edbfa-7179-4797-9a2e-cc99179b680f"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3f44221ag71beg2a64g6502gb62c3d68b251" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Lightning_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="9a380385-1833-46f3-8199-29780400ebca"/>
+                    <attribute id="VisualResource" type="guid" value="ed55eea0-ebac-4870-b9cc-bdeca1037127"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -366,6 +531,21 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h524faf25g4cd5g5715g0f40gd01bd0c5d5e2" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Lightning_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="264cbe52-59f0-4854-a402-ba8d48397f4e"/>
+                    <attribute id="VisualResource" type="guid" value="b58cebe9-6627-41f4-88a0-fc6623a1ef32"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h47b13a23g4196g553agbca4gc13d2d3f4437" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_SorcLightning"/>
@@ -388,6 +568,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="af8d9227-5953-4b9a-baf4-59252814f833"/>
                     <attribute id="VisualResource" type="guid" value="9cc10fdd-994f-4149-9e2a-9efc19ca7b2d"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7530cad4gbe05ge761g7b1fg3d0fbcff46f5" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_SorcLightning_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="00270e64-a09a-4a7b-8612-8b2dec63c2a0"/>
+                    <attribute id="VisualResource" type="guid" value="3e5191ec-debb-4c20-8016-ac7ee822ff5a"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -426,6 +621,21 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h494fc623g9f4dgc1f4g9776g607c80fa208f" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_SorcLightning_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="eca80531-56bf-4c42-ab87-36dc3d8ea9c1"/>
+                    <attribute id="VisualResource" type="guid" value="328406d5-73b0-4764-8bb1-d6cb0c4dc273"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h776c636eg86e9g07e6g8f58gd62d4319ad1f" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_SharShadow"/>
@@ -448,6 +658,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="1c5d662e-4211-4bd5-949d-6d3aee8ddb18"/>
                     <attribute id="VisualResource" type="guid" value="daae1f4f-d69d-4181-8d05-f002f2047ca6"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbfe89123g1529g4da4g05b7g74890b4465e9" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_SharShadow_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="d0250471-9f59-4908-bd3e-37369358af2f"/>
+                    <attribute id="VisualResource" type="guid" value="fa787e84-6fa6-4a1e-8988-fe0a4709f7d9"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -486,6 +711,21 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3e964ac0gd2c0gace1g1017g2e838ef10d58" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_SharShadow_HIDDEN"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="18e5be75-e4c2-4378-a3b7-f850eb1fe116"/>
+                    <attribute id="VisualResource" type="guid" value="e5de6e4e-5901-4625-9644-3371e610837f"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hdf25329fg8536g32f6g33e9gfb6fb8901d30" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_BloodShadow"/>
@@ -508,6 +748,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="acdb0e41-f164-42ed-a0da-01eb043b12c7"/>
                     <attribute id="VisualResource" type="guid" value="d62ff017-6f85-4a71-b21c-ad17b13cc7d3"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h752e3b0cg1ae2g3518gbefegade4c3027b7a" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_BloodShadow_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="2f160810-0f3e-4bf2-bec8-597959a716d4"/>
+                    <attribute id="VisualResource" type="guid" value="d33a07c4-83e8-4651-b396-f6af46356c47"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -546,6 +801,21 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hf55a4a9fg131bgb103g8644ga0dc8594176f" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_BloodShadow_HIDDEN"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="08dd8184-e996-4bb7-b9b1-0e509eb7c014"/>
+                    <attribute id="VisualResource" type="guid" value="fabc2ea8-0ac7-4f59-ad26-83dd11340a9a"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h3deb950ege3f5gb574gb7a3gf968ee75973b" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_B"/>
@@ -568,6 +838,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="1b23e0e1-eeb6-4cc2-a106-d6ed39ff794a"/>
                     <attribute id="VisualResource" type="guid" value="0217fd45-2397-44f4-8a3a-fae9827eb3b0"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9a17b53agbe00ga19fgb82egbb7e37730120" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_B_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="eda9d7df-e5ef-4073-abd9-9643e28a9449"/>
+                    <attribute id="VisualResource" type="guid" value="ccddd48f-7fee-4ed7-a795-8272b3c55f76"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -606,6 +891,21 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h09748831g5399gb561gf11dgb235f5ec421e" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_B_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="3d461a57-5ea0-49b1-8782-97eacb8c5e88"/>
+                    <attribute id="VisualResource" type="guid" value="196a61e2-4702-4df2-ad0b-e550dba3a588"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h89f7545fg340cg915fg0ff2gbfc63a98cc9a" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Acid"/>
@@ -628,6 +928,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="3beb4d16-a725-4869-9e87-f1b51f11e963"/>
                     <attribute id="VisualResource" type="guid" value="ec0ef76e-7150-459b-bb36-b1c104a9403c"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hde393546g72eegd3afgc5b3gaad324766e0d" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Acid_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="691901fa-aaf5-49f3-b406-5aedf3d46f25"/>
+                    <attribute id="VisualResource" type="guid" value="5b324255-fe13-4531-9e3f-f22408d672be"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -666,6 +981,21 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3c3e5d26g66bbg8af7g104dg5c3ef1acbd32" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Acid_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="b9001df8-c826-45a3-a2cf-7d118a947e7c"/>
+                    <attribute id="VisualResource" type="guid" value="91acf374-98ce-4a44-890d-a94bbc6a2b01"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h100222efgc4d0g252dg011ag400431595e15" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_A"/>
@@ -688,6 +1018,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="56c6f440-63b2-4ad1-af2b-19f6415e8f50"/>
                     <attribute id="VisualResource" type="guid" value="63faf8a7-d493-4d14-95a4-61c9d6cde2c8"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd25ddaadgd35eg4787ga88bgd588ac5bbf4f" version="1"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_A_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="6e46ab2a-b2f5-4f16-b667-6f885112e6f3"/>
+                    <attribute id="VisualResource" type="guid" value="3c84ebdb-2c88-4794-ac08-4f940aa52a7a"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -726,6 +1071,21 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h368434e9gb2dbg4356gda24g7af875edcbb4" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_A_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="6cfcc965-c464-4aa3-8eb4-15686a671f9b"/>
+                    <attribute id="VisualResource" type="guid" value="05a889e7-c7be-4087-aab4-7a8b5789d774"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h0090291eg7fe9g198cg3bd8g58af2c5c6777" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_B"/>
@@ -748,6 +1108,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="9b4da564-f2d8-410d-9cca-6a028a2eb98e"/>
                     <attribute id="VisualResource" type="guid" value="8aece7c1-01ac-49a6-853f-aad896f583e5"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h9a3a48d7g77adg315cgf226g64ee7f9f517b" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_B_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="09f048d2-08d2-47ce-8487-2cb3abec3b3d"/>
+                    <attribute id="VisualResource" type="guid" value="4644e08d-bff6-4d55-9a13-01cb540b0939"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -786,6 +1161,21 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7b4b680fg4f7fg633cgd4dcg46d2a53e5885" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_B_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="d4d0752b-18a2-4676-969d-197e0ee21225"/>
+                    <attribute id="VisualResource" type="guid" value="ebd5133d-d3d1-49e0-abca-c4579d405dae"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h4fb61fabgd72eg49bbg593dg21a508ce5ecc" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_A"/>
@@ -808,6 +1198,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="d7e0d34a-9be7-46dd-892e-66b7d3810dc8"/>
                     <attribute id="VisualResource" type="guid" value="bd55f8d4-1197-4b18-bbe5-72a3e4a7f895"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hed75ce31gfd73g4677g996fgd0332871a3f7" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_A_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="c6dc77c7-51c3-4c83-b4b0-d58dce4f84f9"/>
+                    <attribute id="VisualResource" type="guid" value="232112b9-6740-4695-b096-3e2418003d54"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -846,6 +1251,21 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="he32f063fg7a9agda32g8ee0ga58fd00f6eea" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_A_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="deeac9c4-9ef0-467e-8bbc-1763f13f0219"/>
+                    <attribute id="VisualResource" type="guid" value="b3a28e62-ecd7-45ce-9ef2-7754b4aab482"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb51f4178g1f03g3633ga2e0g11ce3e2b802a" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_B"/>
@@ -868,6 +1288,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="05104bd8-29c8-4d81-a456-ab72b2c7515f"/>
                     <attribute id="VisualResource" type="guid" value="ef9fbd48-540c-4f6f-8e63-bc8318c6dc9e"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h6c0d0871g802cg2389g7a89gcc17f06d6310" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_B_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="9a2178a5-eb72-495d-97e0-d330c431f7ba"/>
+                    <attribute id="VisualResource" type="guid" value="c40440b9-43c7-4008-896e-e1984e6bf263"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -906,6 +1341,21 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7647ff15ge9ddg0de2gc81fgdc405a4408a5" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_B_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="bfeddc84-81e3-46f3-b8de-941d308b18a2"/>
+                    <attribute id="VisualResource" type="guid" value="b450b4c9-b428-4e60-89ad-c477970e7c70"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h782a0f6egd1b4g27bdgf820g26861a19c8d8" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_C"/>
@@ -928,6 +1378,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="cfcfe5c6-089f-4488-b035-4116a4a1eb18"/>
                     <attribute id="VisualResource" type="guid" value="daad3e7e-ff22-4234-bcb4-630165f122cc"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h24519aafg8712gea00geacag8e2a21fea8ac" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_C_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="7c07c5f8-dcd0-4e09-b35d-ad4aa1ba40d6"/>
+                    <attribute id="VisualResource" type="guid" value="7f845bc3-b8cd-4472-a972-8a011b32bbb3"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -966,6 +1431,21 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hdfcd0718g97a9ge88eg1a88g204fb2044761" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_C_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="25a3c99d-bfa1-4bae-8675-3d857246b159"/>
+                    <attribute id="VisualResource" type="guid" value="49852ef5-7073-4982-bc02-4f283d442f15"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h64f4e5e9ga284gde07g0932g684f3a2267fd" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_A"/>
@@ -988,6 +1468,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="5cbe6c57-a8a6-41ec-b02b-8caaec5b4431"/>
                     <attribute id="VisualResource" type="guid" value="1a8ea992-b37f-472c-a4f2-6cf02673b16f"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8ff7b988g2a1eg52b5gd89fg572a6bfe7877" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_A_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="de6b2034-b7d7-4d2f-a9ea-97dc7723f0c2"/>
+                    <attribute id="VisualResource" type="guid" value="6a0b763e-1760-4c7f-a11c-3d11a7dece48"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -1026,6 +1521,21 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hbb0f6fe5gf664g349ag659eg75f86f33c640" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_A_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="114ed803-081e-4ac4-94b1-c72d3ff09b19"/>
+                    <attribute id="VisualResource" type="guid" value="fe25c9e1-728d-4f26-aab3-dc4dc7049e36"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h9d99d3adg4759gccf1gfe45g92d47cb5314c" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_B"/>
@@ -1048,6 +1558,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="29debd1c-9955-4f43-a864-f55ce6b639d6"/>
                     <attribute id="VisualResource" type="guid" value="100e9c2e-2171-40f2-ab10-dbea3eaa4bc6"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8a002ad9gc66ag6f54g41b4g4307ad8165e2" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_B_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="938a4a38-75bb-4692-9db1-2f7fea7b3f5f"/>
+                    <attribute id="VisualResource" type="guid" value="1711104d-54db-4825-8d7e-0bb4032fda2c"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -1086,6 +1611,21 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb9c139b6g4ba4gdf30g3d02ge8a875a27ec8" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_B_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="f522b0d0-29f1-4c3e-98d4-a6d0155bdd16"/>
+                    <attribute id="VisualResource" type="guid" value="76f1de87-0ff7-46cc-a046-262474518c94"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h49aab32bgc40agfb53ge750g1edbef105020" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_A"/>
@@ -1108,6 +1648,21 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="be3688b0-815b-4989-bb90-6c060dfb393b"/>
                     <attribute id="VisualResource" type="guid" value="a674cfe4-6fb8-4e65-91f6-e473a82236bc"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h87332372g3730g9c5bg2a6fge7e17fa4de8c" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_A_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="b326b46b-1612-4437-b923-42ce8f236812"/>
+                    <attribute id="VisualResource" type="guid" value="c990589c-a8c9-4767-b07c-a41a7572463f"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
@@ -1146,6 +1701,21 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hba5d6035gf7f8gd4e9g0c26gb1a384ddddf0" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_A_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="eebb775e-1646-422b-8884-725700c6a05e"/>
+                    <attribute id="VisualResource" type="guid" value="da179efc-7ed2-4d03-ac7e-0f92bccf1496"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="0"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hb2327478gb566g0510g138ag1fa361cfb744" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_B"/>
@@ -1176,6 +1746,21 @@
                 </node>
                 <node id="CharacterCreationAppearanceVisual">
                     <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="BodyType" type="uint8" value="0"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hb0a676c0gf270g5e7ag8f49g5fb51c88d34c" version="2"/>
+                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_B_POSE_B"/>
+                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
+                    <attribute id="SlotName" type="FixedString" value="Hair"/>
+                    <attribute id="UUID" type="guid" value="aeb18cac-2252-4dc9-b2de-fdbdd48a9181"/>
+                    <attribute id="VisualResource" type="guid" value="27d06d17-772b-4cc9-aca7-365c32191a82"/>
+                    <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
+                        </node>
+                    </children>
+                </node>
+                <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hd2e0b50dg75e6g92c7g6ee6g5dc07f3a03a8" version="1"/>
                     <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_B"/>
@@ -1198,591 +1783,6 @@
                     <attribute id="SlotName" type="FixedString" value="Hair"/>
                     <attribute id="UUID" type="guid" value="23cb284c-d8e5-4a25-9c51-abc8f861c734"/>
                     <attribute id="VisualResource" type="guid" value="ff59dfee-7765-4468-a157-65a5c22de53c"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="had4c6cc2g70c9gda74ga502g4334d7758f6e" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="d95afe19-004f-4f17-8d81-0be6b6a6208c"/>
-                    <attribute id="VisualResource" type="guid" value="848ef485-4df3-4716-82c3-e9eec8452e7c"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hd38806a7geeacg8073g18d5g052a651631b9" version="1"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowWings_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="b024bc41-8de9-40ab-9044-217622a336d8"/>
-                    <attribute id="VisualResource" type="guid" value="da4b5d02-f41e-4569-b6ee-61ccc5495337"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hcd5073a9g83a1g98cdgc8f5g917f4414b162" version="1"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="354c1118-38b0-421b-93e9-f9d612390c5a"/>
-                    <attribute id="VisualResource" type="guid" value="89db6793-05d1-45a1-96db-1ea079aeb7fe"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h06b6992egdbb4g5ed7ge5cdg4e6d7aaf4d84" version="1"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_HellFire_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="fcb9f76f-e893-40a6-8055-c14e342ade0f"/>
-                    <attribute id="VisualResource" type="guid" value="53ad019e-c035-4abe-8441-f9ce790a7469"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hff7cd883g22b4gc148gb7e1ga633a66684e4" version="1"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_HolyFire_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="d93b445b-f1aa-40ec-806b-e3d53a830d7f"/>
-                    <attribute id="VisualResource" type="guid" value="c353f845-0224-4cc5-9268-16fb85378a23"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h3f44221ag71beg2a64g6502gb62c3d68b251" version="1"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Lightning_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="9a380385-1833-46f3-8199-29780400ebca"/>
-                    <attribute id="VisualResource" type="guid" value="ed55eea0-ebac-4870-b9cc-bdeca1037127"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h7530cad4gbe05ge761g7b1fg3d0fbcff46f5" version="1"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_SorcLightning_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="00270e64-a09a-4a7b-8612-8b2dec63c2a0"/>
-                    <attribute id="VisualResource" type="guid" value="3e5191ec-debb-4c20-8016-ac7ee822ff5a"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hbfe89123g1529g4da4g05b7g74890b4465e9" version="1"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_SharShadow_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="d0250471-9f59-4908-bd3e-37369358af2f"/>
-                    <attribute id="VisualResource" type="guid" value="fa787e84-6fa6-4a1e-8988-fe0a4709f7d9"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h752e3b0cg1ae2g3518gbefegade4c3027b7a" version="1"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_BloodShadow_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="2f160810-0f3e-4bf2-bec8-597959a716d4"/>
-                    <attribute id="VisualResource" type="guid" value="d33a07c4-83e8-4651-b396-f6af46356c47"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h9a17b53agbe00ga19fgb82egbb7e37730120" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_B_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="eda9d7df-e5ef-4073-abd9-9643e28a9449"/>
-                    <attribute id="VisualResource" type="guid" value="ccddd48f-7fee-4ed7-a795-8272b3c55f76"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hde393546g72eegd3afgc5b3gaad324766e0d" version="1"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Acid_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="691901fa-aaf5-49f3-b406-5aedf3d46f25"/>
-                    <attribute id="VisualResource" type="guid" value="5b324255-fe13-4531-9e3f-f22408d672be"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hd25ddaadgd35eg4787ga88bgd588ac5bbf4f" version="1"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_A_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="6e46ab2a-b2f5-4f16-b667-6f885112e6f3"/>
-                    <attribute id="VisualResource" type="guid" value="3c84ebdb-2c88-4794-ac08-4f940aa52a7a"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h9a3a48d7g77adg315cgf226g64ee7f9f517b" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_B_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="09f048d2-08d2-47ce-8487-2cb3abec3b3d"/>
-                    <attribute id="VisualResource" type="guid" value="4644e08d-bff6-4d55-9a13-01cb540b0939"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hed75ce31gfd73g4677g996fgd0332871a3f7" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_A_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="c6dc77c7-51c3-4c83-b4b0-d58dce4f84f9"/>
-                    <attribute id="VisualResource" type="guid" value="232112b9-6740-4695-b096-3e2418003d54"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h6c0d0871g802cg2389g7a89gcc17f06d6310" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_B_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="9a2178a5-eb72-495d-97e0-d330c431f7ba"/>
-                    <attribute id="VisualResource" type="guid" value="c40440b9-43c7-4008-896e-e1984e6bf263"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h24519aafg8712gea00geacag8e2a21fea8ac" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_C_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="7c07c5f8-dcd0-4e09-b35d-ad4aa1ba40d6"/>
-                    <attribute id="VisualResource" type="guid" value="7f845bc3-b8cd-4472-a972-8a011b32bbb3"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h8ff7b988g2a1eg52b5gd89fg572a6bfe7877" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_A_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="de6b2034-b7d7-4d2f-a9ea-97dc7723f0c2"/>
-                    <attribute id="VisualResource" type="guid" value="6a0b763e-1760-4c7f-a11c-3d11a7dece48"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h8a002ad9gc66ag6f54g41b4g4307ad8165e2" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_B_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="938a4a38-75bb-4692-9db1-2f7fea7b3f5f"/>
-                    <attribute id="VisualResource" type="guid" value="1711104d-54db-4825-8d7e-0bb4032fda2c"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h87332372g3730g9c5bg2a6fge7e17fa4de8c" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_A_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="b326b46b-1612-4437-b923-42ce8f236812"/>
-                    <attribute id="VisualResource" type="guid" value="c990589c-a8c9-4767-b07c-a41a7572463f"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="0"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hb0a676c0gf270g5e7ag8f49g5fb51c88d34c" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_B_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="aeb18cac-2252-4dc9-b2de-fdbdd48a9181"/>
-                    <attribute id="VisualResource" type="guid" value="27d06d17-772b-4cc9-aca7-365c32191a82"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h8603e744g38afg1389g7d1bg7d133a5b1d7a" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="b2abeeae-0927-4e78-a613-ffe369a56819"/>
-                    <attribute id="VisualResource" type="guid" value="9636408d-e579-411f-8098-3efbe06dbbf2"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="he59acb55gc913gb5acgb439g4ccb3fbab9da" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowWings_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="fa99368a-6c29-4fe7-9198-8d578c2b5ee9"/>
-                    <attribute id="VisualResource" type="guid" value="014d204e-5a7f-43a5-a0bf-df5c8d9a33b9"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h27bc9cb8g078fg5710g01a2gd394b8ed3a10" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="5a554d7d-3672-4fe0-bbdf-09e77a1eac41"/>
-                    <attribute id="VisualResource" type="guid" value="daaa6857-e50a-4421-bd6e-9c613fa7d203"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h908a572cg9d53gf977ge536g9a10ee19f6f0" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_HellFire_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="ce2f132e-09e8-494c-b784-06e6d03bbe7e"/>
-                    <attribute id="VisualResource" type="guid" value="4393c8fe-2d83-4dd0-8278-00d36ef4b807"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h08721e1dg390cg235ag8b0fg7ac3b0fb7c2b" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_HolyFire_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="d801ebb9-5a4e-4a8f-9b94-325f65cb8146"/>
-                    <attribute id="VisualResource" type="guid" value="db3b65b0-0965-4b3e-9942-bbecd3c223e6"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h524faf25g4cd5g5715g0f40gd01bd0c5d5e2" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Lightning_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="264cbe52-59f0-4854-a402-ba8d48397f4e"/>
-                    <attribute id="VisualResource" type="guid" value="b58cebe9-6627-41f4-88a0-fc6623a1ef32"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h494fc623g9f4dgc1f4g9776g607c80fa208f" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_SorcLightning_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="eca80531-56bf-4c42-ab87-36dc3d8ea9c1"/>
-                    <attribute id="VisualResource" type="guid" value="328406d5-73b0-4764-8bb1-d6cb0c4dc273"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h3e964ac0gd2c0gace1g1017g2e838ef10d58" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_SharShadow_HIDDEN"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="18e5be75-e4c2-4378-a3b7-f850eb1fe116"/>
-                    <attribute id="VisualResource" type="guid" value="e5de6e4e-5901-4625-9644-3371e610837f"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hf55a4a9fg131bgb103g8644ga0dc8594176f" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_BloodShadow_HIDDEN"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="08dd8184-e996-4bb7-b9b1-0e509eb7c014"/>
-                    <attribute id="VisualResource" type="guid" value="fabc2ea8-0ac7-4f59-ad26-83dd11340a9a"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h09748831g5399gb561gf11dgb235f5ec421e" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_B_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="3d461a57-5ea0-49b1-8782-97eacb8c5e88"/>
-                    <attribute id="VisualResource" type="guid" value="196a61e2-4702-4df2-ad0b-e550dba3a588"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h3c3e5d26g66bbg8af7g104dg5c3ef1acbd32" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Acid_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="b9001df8-c826-45a3-a2cf-7d118a947e7c"/>
-                    <attribute id="VisualResource" type="guid" value="91acf374-98ce-4a44-890d-a94bbc6a2b01"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h368434e9gb2dbg4356gda24g7af875edcbb4" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_A_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="6cfcc965-c464-4aa3-8eb4-15686a671f9b"/>
-                    <attribute id="VisualResource" type="guid" value="05a889e7-c7be-4087-aab4-7a8b5789d774"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h7b4b680fg4f7fg633cgd4dcg46d2a53e5885" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_B_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="d4d0752b-18a2-4676-969d-197e0ee21225"/>
-                    <attribute id="VisualResource" type="guid" value="ebd5133d-d3d1-49e0-abca-c4579d405dae"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="he32f063fg7a9agda32g8ee0ga58fd00f6eea" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_A_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="deeac9c4-9ef0-467e-8bbc-1763f13f0219"/>
-                    <attribute id="VisualResource" type="guid" value="b3a28e62-ecd7-45ce-9ef2-7754b4aab482"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h7647ff15ge9ddg0de2gc81fgdc405a4408a5" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_B_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="bfeddc84-81e3-46f3-b8de-941d308b18a2"/>
-                    <attribute id="VisualResource" type="guid" value="b450b4c9-b428-4e60-89ad-c477970e7c70"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hdfcd0718g97a9ge88eg1a88g204fb2044761" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_C_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="25a3c99d-bfa1-4bae-8675-3d857246b159"/>
-                    <attribute id="VisualResource" type="guid" value="49852ef5-7073-4982-bc02-4f283d442f15"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hbb0f6fe5gf664g349ag659eg75f86f33c640" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_A_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="114ed803-081e-4ac4-94b1-c72d3ff09b19"/>
-                    <attribute id="VisualResource" type="guid" value="fe25c9e1-728d-4f26-aab3-dc4dc7049e36"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hb9c139b6g4ba4gdf30g3d02ge8a875a27ec8" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_B_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="f522b0d0-29f1-4c3e-98d4-a6d0155bdd16"/>
-                    <attribute id="VisualResource" type="guid" value="76f1de87-0ff7-46cc-a046-262474518c94"/>
-                    <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
-                        </node>
-                    </children>
-                </node>
-                <node id="CharacterCreationAppearanceVisual">
-                    <attribute id="BodyShape" type="uint8" value="0"/>
-                    <attribute id="BodyType" type="uint8" value="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hba5d6035gf7f8gd4e9g0c26gb1a384ddddf0" version="2"/>
-                    <attribute id="IconIdOverride" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_A_POSE_B"/>
-                    <attribute id="RaceUUID" type="guid" value="9c61a74a-20df-4119-89c5-d996956b6c66"/>
-                    <attribute id="SlotName" type="FixedString" value="Hair"/>
-                    <attribute id="UUID" type="guid" value="eebb775e-1646-422b-8884-725700c6a05e"/>
-                    <attribute id="VisualResource" type="guid" value="da179efc-7ed2-4d03-ac7e-0f92bccf1496"/>
                     <children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="c8beccad-94fe-4c22-89d1-a48471092375"/>
