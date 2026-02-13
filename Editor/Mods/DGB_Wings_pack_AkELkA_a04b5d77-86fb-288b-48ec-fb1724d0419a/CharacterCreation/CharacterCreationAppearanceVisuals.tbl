@@ -717,7 +717,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="e5de6e4e-5901-4625-9644-3371e610837f" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3e964ac0gd2c0gace1g1017g2e838ef10d58" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_SharShadow_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_SharShadow_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_SharShadow_POSE_B" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375" />
       </fields>
     </stat_object>
@@ -807,7 +807,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="fabc2ea8-0ac7-4f59-ad26-83dd11340a9a" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf55a4a9fg131bgb103g8644ga0dc8594176f" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_BloodShadow_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_BloodShadow_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_BloodShadow_POSE_B" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375" />
       </fields>
     </stat_object>
