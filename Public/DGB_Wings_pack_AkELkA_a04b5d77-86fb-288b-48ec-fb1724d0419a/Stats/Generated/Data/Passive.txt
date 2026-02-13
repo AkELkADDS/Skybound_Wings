@@ -3,7 +3,7 @@ type "PassiveData"
 data "DisplayName" "h0bd87365g870cg534bge7fbge632e910a432;2"
 data "Description" "hb83d5b03gcf7egda99ga097gb586fd08ebfa;1"
 data "Icon" "Skill_SW_DragonWind"
-data "Properties" "Highlighted;IsToggled;ToggledDefaultAddToHotbar"
+data "Properties" "Highlighted;IsToggled;ToggledDefaultAddToHotbar;ToggledDefaultOn"
 data "ToggleOnFunctors" "ApplyStatus(EL_SW_WINGS_FLIGHT, 100, -1)"
 data "ToggleOffFunctors" "RemoveStatus(EL_SW_WINGS_FLIGHT)"
 

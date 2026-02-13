@@ -7,7 +7,7 @@
         <field name="Name" type="NameTableFieldDefinition" color="#FF191970" value="EL_DGB_SW_Fly" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0bd87365g870cg534bge7fbge632e910a432" version="2" />
         <field name="Icon" type="StringTableFieldDefinition" color="#FF191970" value="Skill_SW_DragonWind" />
-        <field name="Properties" type="EnumerationListTableFieldDefinition" color="#FF191970" value="Highlighted;IsToggled;ToggledDefaultAddToHotbar" enumeration_type_name="PassiveFlags" version="1" />
+        <field name="Properties" type="EnumerationListTableFieldDefinition" color="#FF191970" value="Highlighted;IsToggled;ToggledDefaultAddToHotbar;ToggledDefaultOn" enumeration_type_name="PassiveFlags" version="1" />
         <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hb83d5b03gcf7egda99ga097gb586fd08ebfa" version="1" />
         <field name="ToggleOnFunctors" type="FunctorsTableFieldDefinition" color="#FF191970" value="ApplyStatus(EL_SW_WINGS_FLIGHT, 100, -1)" />
         <field name="ToggleOffFunctors" type="FunctorsTableFieldDefinition" color="#FF191970" value="RemoveStatus(EL_SW_WINGS_FLIGHT)" />
