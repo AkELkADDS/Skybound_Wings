@@ -112,7 +112,7 @@
                     <attribute id="FileSize" type="uint64" value="94957136"/>
                     <attribute id="Folder" type="LSString" value="DGB_Wings_pack_AkELkA_a04b5d77-86fb-288b-48ec-fb1724d0419a"/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
-                    <attribute id="MD5" type="LSString" value="067c17f448308ead21abc597a32e604d"/>
+                    <attribute id="MD5" type="LSString" value="3208c08b26d0624a900daa4f0b445b80"/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
                     <attribute id="Name" type="LSString" value="Skybound Wings - Primal Pack - Dragonborn CC"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
@@ -120,7 +120,7 @@
                     <attribute id="PublishHandle" type="uint64" value="4571493"/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
                     <attribute id="UUID" type="FixedString" value="a04b5d77-86fb-288b-48ec-fb1724d0419a"/>
-                    <attribute id="Version64" type="int64" value="36028797018963979"/>
+                    <attribute id="Version64" type="int64" value="36028797018963980"/>
                     <children>
                         <node id="PublishVersion">
                             <attribute id="Version64" type="int64" value="144255927717549775"/>
