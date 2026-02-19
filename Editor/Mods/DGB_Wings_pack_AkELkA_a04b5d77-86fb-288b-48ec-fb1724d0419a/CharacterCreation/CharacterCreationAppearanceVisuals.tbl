@@ -27,7 +27,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="90612a48-44bd-445e-9db4-de6f42e52b7f" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc8217b34gce8cgfd9dgb27bgf1e65e86481b" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_A_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -42,7 +42,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="848ef485-4df3-4716-82c3-e9eec8452e7c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="had4c6cc2g70c9gda74ga502g4334d7758f6e" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_A_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -71,7 +71,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="8203f038-d175-4bf7-a5de-47d73c61df11" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha11ee15bgb901g0f7ag7e56g0dc25936afaf" version="2" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowWings_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_ShadowWings_HIDDEN" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -86,7 +86,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="da4b5d02-f41e-4569-b6ee-61ccc5495337" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd38806a7geeacg8073g18d5g052a651631b9" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowWings_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_ShadowWings_POSE_B" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -116,7 +116,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="52af2cbd-2153-440e-a5c2-a0f613503b8d" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0d6db6fbg3078gb2b0g7aadg8dea4d54cd9e" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_ShadowCursed_A_HIDDEN" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -131,7 +131,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="89db6793-05d1-45a1-96db-1ea079aeb7fe" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hcd5073a9g83a1g98cdgc8f5g917f4414b162" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_ShadowCursed_A_POSE_B" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -161,7 +161,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="495e6eca-7e4f-49dc-a405-c2af53acb714" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc116d3d8gc688g51edgecfbg9654cb6c81b9" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_HellFire_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_HellFire_HIDDEN" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -176,7 +176,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="53ad019e-c035-4abe-8441-f9ce790a7469" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h06b6992egdbb4g5ed7ge5cdg4e6d7aaf4d84" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_HellFire_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_HellFire_POSE_B" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -206,7 +206,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="b6c20fb7-ee23-4859-a7d5-c7fe1b8b56f8" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8d251c9ag4784g8abbg1c35g5d6f037ad2c9" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_HolyFire_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_HolyFire_HIDDEN" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -221,7 +221,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="c353f845-0224-4cc5-9268-16fb85378a23" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hff7cd883g22b4gc148gb7e1ga633a66684e4" version="1" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_HolyFire_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_HolyFire_POSE_B" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -251,7 +251,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="9cc05fda-c375-4f16-951a-ebdefaa92961" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6c2b60c8g574eg33ccgdb7bga3a8cb24ce13" version="2" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_A_HIDDEN" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -266,7 +266,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="9636408d-e579-411f-8098-3efbe06dbbf2" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8603e744g38afg1389g7d1bg7d133a5b1d7a" version="2" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_A_POSE_B" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -296,7 +296,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="9ffa0fba-a93f-492e-8280-d4c1a99e8a3e" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h23309b0fgdedbgb375gef76g49abf297ba5d" version="2" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowWings_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_ShadowWings_HIDDEN" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -311,7 +311,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="014d204e-5a7f-43a5-a0bf-df5c8d9a33b9" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he59acb55gc913gb5acgb439g4ccb3fbab9da" version="2" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowWings_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_ShadowWings_POSE_B" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -341,7 +341,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="f819d61b-0b7f-4a6f-8917-9fa37a6ca39d" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h16361d81g0593g9883g57a3g1e4546bd9c83" version="2" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_ShadowCursed_A_HIDDEN" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -356,7 +356,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="daaa6857-e50a-4421-bd6e-9c613fa7d203" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h27bc9cb8g078fg5710g01a2gd394b8ed3a10" version="2" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_ShadowCursed_A_POSE_B" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -386,7 +386,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="21c5ff8f-8798-4f7a-877f-d75dba31afbb" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h192bb141g9c81g1bfbg9d9fgc60e0be211ac" version="2" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_HellFire_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_HellFire_HIDDEN" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -401,7 +401,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="4393c8fe-2d83-4dd0-8278-00d36ef4b807" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h908a572cg9d53gf977ge536g9a10ee19f6f0" version="2" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_HellFire_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_HellFire_POSE_B" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -431,7 +431,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="618d462c-6ecf-4ce7-b08d-3bfc92f26b44" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdd5dd092g10cegd537g293eg19b5a2d17d69" version="2" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_HolyFire_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_HolyFire_HIDDEN" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -446,7 +446,7 @@
         <field name="SlotName" type="EnumerationTableFieldDefinition" value="Hair" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
         <field name="VisualResource" type="GuidTableFieldDefinition" value="db3b65b0-0965-4b3e-9942-bbecd3c223e6" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h08721e1dg390cg235ag8b0fg7ac3b0fb7c2b" version="2" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_HolyFire_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_HolyFire_POSE_B" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
@@ -477,7 +477,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="0f5edbfa-7179-4797-9a2e-cc99179b680f" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3a55d9c3g521bgc04cg6bbcg2e01978df565" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Electro_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Lightning_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -492,7 +492,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="ed55eea0-ebac-4870-b9cc-bdeca1037127" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3f44221ag71beg2a64g6502gb62c3d68b251" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Electro_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Lightning_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -522,7 +522,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="9cca278c-5704-4a9b-9ac2-fed8227ed9c6" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8fff5965g0680gf670g5b77gf12aa29f0da7" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Electro_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Lightning_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -537,7 +537,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="b58cebe9-6627-41f4-88a0-fc6623a1ef32" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h524faf25g4cd5g5715g0f40gd01bd0c5d5e2" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Electro_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Lightning_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -567,7 +567,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="9cc10fdd-994f-4149-9e2a-9efc19ca7b2d" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc5359759g6df4g0ef6gdfc8g7ce0158a4bc6" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_SorcElectro_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_SorcLightning_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -582,7 +582,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="3e5191ec-debb-4c20-8016-ac7ee822ff5a" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7530cad4gbe05ge761g7b1fg3d0fbcff46f5" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_SorcElectro_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_SorcLightning_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -612,7 +612,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="6d71f8a2-6521-4d86-ad81-af1e37ab2a06" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h04ca0515g5f72g06c4g4b9dgadca512e53ef" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_SorcElectro_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_SorcLightning_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -627,7 +627,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="328406d5-73b0-4764-8bb1-d6cb0c4dc273" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h494fc623g9f4dgc1f4g9776g607c80fa208f" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_SorcElectro_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_SorcLightning_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -657,7 +657,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="daae1f4f-d69d-4181-8d05-f002f2047ca6" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h53b8dc41g029eg5192g88daga3b2ba79551b" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_SharShadow_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_SharShadow_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -672,7 +672,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="fa787e84-6fa6-4a1e-8988-fe0a4709f7d9" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbfe89123g1529g4da4g05b7g74890b4465e9" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_SharShadow_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_SharShadow_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -702,7 +702,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="b28a14ca-accc-480c-a97d-00d94939173e" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h44178a45gf063g95d5g0e01ge10d2ebe2624" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_SharShadow_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_SharShadow_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -717,7 +717,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="e5de6e4e-5901-4625-9644-3371e610837f" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3e964ac0gd2c0gace1g1017g2e838ef10d58" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_SharShadow_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_SharShadow_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -747,7 +747,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="d62ff017-6f85-4a71-b21c-ad17b13cc7d3" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="ha8cd7232g0adag23beg2192g51b2bcbcd61f" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_BloodShadow_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_BloodShadow_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -762,7 +762,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="d33a07c4-83e8-4651-b396-f6af46356c47" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h752e3b0cg1ae2g3518gbefegade4c3027b7a" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_BloodShadow_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_BloodShadow_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -792,7 +792,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="57f5c4c9-248f-4673-889d-1cba09fb89cf" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb280f7fdg7482g62aag1f8ag13aa6df123ba" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_BloodShadow_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_BloodShadow_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -807,7 +807,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="fabc2ea8-0ac7-4f59-ad26-83dd11340a9a" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf55a4a9fg131bgb103g8644ga0dc8594176f" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_BloodShadow_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_BloodShadow_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -837,7 +837,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="0217fd45-2397-44f4-8a3a-fae9827eb3b0" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hee2bf17egc2a2g6133g78ebga7d4fa0e743f" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_ShadowCursed_B_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_B_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -852,7 +852,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="ccddd48f-7fee-4ed7-a795-8272b3c55f76" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9a17b53agbe00ga19fgb82egbb7e37730120" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_ShadowCursed_B_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_B_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -882,7 +882,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="f241bad7-6adb-4c1d-899c-d9a1c72b13bc" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7b275992g7ec1g2d7cg336cg099feb3470b4" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_ShadowCursed_B_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_B_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -897,7 +897,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="196a61e2-4702-4df2-ad0b-e550dba3a588" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h09748831g5399gb561gf11dgb235f5ec421e" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_ShadowCursed_B_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_B_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -927,7 +927,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="ec0ef76e-7150-459b-bb36-b1c104a9403c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc7108cd7g289eg459fgeb10g610e2a998df8" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Acid_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Acid_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -942,7 +942,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="5b324255-fe13-4531-9e3f-f22408d672be" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hde393546g72eegd3afgc5b3gaad324766e0d" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Acid_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Acid_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -972,7 +972,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="8c4f9bc9-c455-4413-97a3-5db71f62b05b" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hc1058691gb991g652dgf2cdgf4e0f160c36e" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Acid_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Acid_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -987,7 +987,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="91acf374-98ce-4a44-890d-a94bbc6a2b01" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3c3e5d26g66bbg8af7g104dg5c3ef1acbd32" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Acid_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Acid_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1017,7 +1017,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="63faf8a7-d493-4d14-95a4-61c9d6cde2c8" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4849c3deg9a67g5662gec0dg43248e08091d" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_Ghost_A_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_A_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1032,7 +1032,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="3c84ebdb-2c88-4794-ac08-4f940aa52a7a" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hd25ddaadgd35eg4787ga88bgd588ac5bbf4f" version="1" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_Ghost_A_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_A_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1062,7 +1062,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="fbdde412-dd51-4861-ade5-efd2c03e568a" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8d07d633gf6a9g6a26gbce9geefc3ba6a953" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_Ghost_A_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_A_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1077,7 +1077,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="05a889e7-c7be-4087-aab4-7a8b5789d774" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h368434e9gb2dbg4356gda24g7af875edcbb4" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_Ghost_A_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_A_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1107,7 +1107,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="8aece7c1-01ac-49a6-853f-aad896f583e5" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h66067fbag64c2g2af3gf40bg337b9ac733c4" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Ghost_A_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_B_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1122,7 +1122,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="4644e08d-bff6-4d55-9a13-01cb540b0939" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9a3a48d7g77adg315cgf226g64ee7f9f517b" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Ghost_A_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_B_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1152,7 +1152,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="30e66834-5a94-40c7-9cf4-f72751b2611f" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9a6b5138gd8efgff86g6126ga71e62244965" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Ghost_A_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_B_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1167,7 +1167,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="ebd5133d-d3d1-49e0-abca-c4579d405dae" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7b4b680fg4f7fg633cgd4dcg46d2a53e5885" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Ghost_A_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_B_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1197,7 +1197,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="bd55f8d4-1197-4b18-bbe5-72a3e4a7f895" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hceb83a67g8ccdgd99fge7abg2b9851cc7a33" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_Ghost_ShadowCurse_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_A_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1212,7 +1212,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="232112b9-6740-4695-b096-3e2418003d54" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hed75ce31gfd73g4677g996fgd0332871a3f7" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_Ghost_ShadowCurse_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_A_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1242,7 +1242,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="8f2256bc-b715-4832-9fec-0d54e3332525" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h9fed8254gb766g335fgc1dcg439a58288b06" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_Ghost_ShadowCurse_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_A_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1257,7 +1257,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="b3a28e62-ecd7-45ce-9ef2-7754b4aab482" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="he32f063fg7a9agda32g8ee0ga58fd00f6eea" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_Ghost_ShadowCurse_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_A_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1287,7 +1287,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="ef9fbd48-540c-4f6f-8e63-bc8318c6dc9e" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h3a540ce9g425fg7ef8g1cc6g8af7a03649a3" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Ghost_ShadowCurse_A_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_B_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1302,7 +1302,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="c40440b9-43c7-4008-896e-e1984e6bf263" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6c0d0871g802cg2389g7a89gcc17f06d6310" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Ghost_ShadowCurse_A_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_B_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1332,7 +1332,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="6f97c780-214c-4da9-8876-7d5eb69ed5cd" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7fc257bcgc723ga8fdgbe1eg3588747f8ae3" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Ghost_ShadowCurse_A_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_B_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1347,7 +1347,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="b450b4c9-b428-4e60-89ad-c477970e7c70" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h7647ff15ge9ddg0de2gc81fgdc405a4408a5" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Ghost_ShadowCurse_A_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_B_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1377,7 +1377,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="daad3e7e-ff22-4234-bcb4-630165f122cc" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8159f100gfb5eg96a7g8efega6772ad104d2" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Ghost_ShadowCurse_C_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_C_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1392,7 +1392,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="7f845bc3-b8cd-4472-a972-8a011b32bbb3" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h24519aafg8712gea00geacag8e2a21fea8ac" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Ghost_ShadowCurse_C_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_C_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1422,7 +1422,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="8727652e-877c-4ed5-b0e8-6af2ce06fc28" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0e53c20egffcdgd46eg382fg37c10b897beb" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Ghost_ShadowCurse_C_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_C_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1437,7 +1437,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="49852ef5-7073-4982-bc02-4f283d442f15" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdfcd0718g97a9ge88eg1a88g204fb2044761" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Ghost_ShadowCurse_C_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_ShadowCursed_C_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1467,7 +1467,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="1a8ea992-b37f-472c-a4f2-6cf02673b16f" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h5e04c564g65b2g6188gbcc6g1d69e061c9a7" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_Ghost_SharShadow_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_A_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1482,7 +1482,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="6a0b763e-1760-4c7f-a11c-3d11a7dece48" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8ff7b988g2a1eg52b5gd89fg572a6bfe7877" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_Ghost_SharShadow_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_A_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1512,7 +1512,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="08cd3b8c-63d2-403f-903a-020c9aa7cf8a" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1ea4702bg155eg49d9g6dfeg4207fbb72405" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_Ghost_SharShadow_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_A_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1527,7 +1527,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="fe25c9e1-728d-4f26-aab3-dc4dc7049e36" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hbb0f6fe5gf664g349ag659eg75f86f33c640" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_Ghost_SharShadow_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_A_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1557,7 +1557,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="100e9c2e-2171-40f2-ab10-dbea3eaa4bc6" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h1efe1a21gc088g5af0g82fegdc85081bdcf7" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Ghost_SharShadow_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_B_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1572,7 +1572,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="1711104d-54db-4825-8d7e-0bb4032fda2c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h8a002ad9gc66ag6f54g41b4g4307ad8165e2" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Ghost_SharShadow_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_B_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1602,7 +1602,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="bfe2d226-35b3-4119-946d-024b2a91693c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb9a16ed9g28e6g66dag1e0ag2f6c8b1091ed" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Ghost_SharShadow_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_B_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1617,7 +1617,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="76f1de87-0ff7-46cc-a046-262474518c94" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb9c139b6g4ba4gdf30g3d02ge8a875a27ec8" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Ghost_SharShadow_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_SharShadow_B_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1647,7 +1647,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="a674cfe4-6fb8-4e65-91f6-e473a82236bc" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="haa4a056cg5354ga7beg7f45g9090c1104428" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_Ghost_BloodShadow_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_A_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1662,7 +1662,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="c990589c-a8c9-4767-b07c-a41a7572463f" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h87332372g3730g9c5bg2a6fge7e17fa4de8c" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_Ghost_BloodShadow_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_A_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1692,7 +1692,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="d1b9a95c-e568-4c3d-b0ca-551d59fea316" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hdcb356deg4f13g12b5g8469g1479a61e918e" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_Ghost_BloodShadow_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_A_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1707,7 +1707,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="da179efc-7ed2-4d03-ac7e-0f92bccf1496" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hba5d6035gf7f8gd4e9g0c26gb1a384ddddf0" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_Ghost_BloodShadow_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_A_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1737,7 +1737,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="07f24723-121d-4fc9-85b9-9ab391ff7953" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hea7e00f5ga3ccg13begcc89g1d6fa325302e" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Ghost_BloodShadow_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_B_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1752,7 +1752,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="27d06d17-772b-4cc9-aca7-365c32191a82" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hb0a676c0gf270g5e7ag8f49g5fb51c88d34c" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_VFX_A1_Ghost_BloodShadow_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_B_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1782,7 +1782,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="ff59dfee-7765-4468-a157-65a5c22de53c" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h4480921ag274fg8df2gf2a6g74650e05c3ff" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Ghost_BloodShadow_HIDDEN" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_B_HIDDEN" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_HIDDEN_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>
@@ -1797,7 +1797,7 @@
         <field name="VisualResource" type="GuidTableFieldDefinition" value="fe8b2734-c9ca-44a1-87a7-117d17208f04" />
         <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h02235037gb904g1fd0g3256g841b69743fd7" version="2" />
         <field name="Comment" type="CommentTableFieldDefinition" value="DGB_CMBN_F_Wings_A_B_VFX_A1_Ghost_BloodShadow_POSE_B" />
-        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_CMBN_M_Wings_A_B_1_Ghost_BloodShadow_B_POSE_B" />
+        <field name="IconIdOverride" type="FixedStringTableFieldDefinition" value="DGB_SW_Wings_POSE_B_1" />
         <field name="Tags" type="GuidObjectListTableFieldDefinition" value="c8beccad-94fe-4c22-89d1-a48471092375;e7edf5e9-5677-4376-afa3-9a7a54e3deaa" />
       </fields>
     </stat_object>

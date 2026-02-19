@@ -26,13 +26,6 @@
                     <attribute id="V2" type="float" value="0.74902344"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_HIDDEN"/>
-                    <attribute id="U1" type="float" value="0.75097656"/>
-                    <attribute id="U2" type="float" value="0.99902344"/>
-                    <attribute id="V1" type="float" value="0.50097656"/>
-                    <attribute id="V2" type="float" value="0.74902344"/>
-                </node>
-                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_HellFire"/>
                     <attribute id="U1" type="float" value="0.25097656"/>
                     <attribute id="U2" type="float" value="0.49902344"/>
@@ -40,25 +33,11 @@
                     <attribute id="V2" type="float" value="0.24902344"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_HellFire_HIDDEN"/>
-                    <attribute id="U1" type="float" value="0.0009765625"/>
-                    <attribute id="U2" type="float" value="0.24902344"/>
-                    <attribute id="V1" type="float" value="0.75097656"/>
-                    <attribute id="V2" type="float" value="0.99902344"/>
-                </node>
-                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_HolyFire"/>
                     <attribute id="U1" type="float" value="0.50097656"/>
                     <attribute id="U2" type="float" value="0.74902344"/>
                     <attribute id="V1" type="float" value="0.0009765625"/>
                     <attribute id="V2" type="float" value="0.24902344"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_HolyFire_HIDDEN"/>
-                    <attribute id="U1" type="float" value="0.25097656"/>
-                    <attribute id="U2" type="float" value="0.49902344"/>
-                    <attribute id="V1" type="float" value="0.75097656"/>
-                    <attribute id="V2" type="float" value="0.99902344"/>
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_Lightning"/>
@@ -82,25 +61,11 @@
                     <attribute id="V2" type="float" value="0.49902344"/>
                 </node>
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowCursed_HIDDEN"/>
-                    <attribute id="U1" type="float" value="0.50097656"/>
-                    <attribute id="U2" type="float" value="0.74902344"/>
-                    <attribute id="V1" type="float" value="0.75097656"/>
-                    <attribute id="V2" type="float" value="0.99902344"/>
-                </node>
-                <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowWings"/>
                     <attribute id="U1" type="float" value="0.0009765625"/>
                     <attribute id="U2" type="float" value="0.24902344"/>
                     <attribute id="V1" type="float" value="0.25097656"/>
                     <attribute id="V2" type="float" value="0.49902344"/>
-                </node>
-                <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_ShadowWings_HIDDEN"/>
-                    <attribute id="U1" type="float" value="0.75097656"/>
-                    <attribute id="U2" type="float" value="0.99902344"/>
-                    <attribute id="V1" type="float" value="0.75097656"/>
-                    <attribute id="V2" type="float" value="0.99902344"/>
                 </node>
                 <node id="IconUV">
                     <attribute id="MapKey" type="FixedString" value="DGB_CMBN_M_Wings_A_B_1_SharShadow"/>
@@ -115,6 +80,20 @@
                     <attribute id="U2" type="float" value="0.74902344"/>
                     <attribute id="V1" type="float" value="0.25097656"/>
                     <attribute id="V2" type="float" value="0.49902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_SW_Wings_HIDDEN_1"/>
+                    <attribute id="U1" type="float" value="0.75097656"/>
+                    <attribute id="U2" type="float" value="0.99902344"/>
+                    <attribute id="V1" type="float" value="0.50097656"/>
+                    <attribute id="V2" type="float" value="0.74902344"/>
+                </node>
+                <node id="IconUV">
+                    <attribute id="MapKey" type="FixedString" value="DGB_SW_Wings_POSE_B_1"/>
+                    <attribute id="U1" type="float" value="0.0009765625"/>
+                    <attribute id="U2" type="float" value="0.24902344"/>
+                    <attribute id="V1" type="float" value="0.75097656"/>
+                    <attribute id="V2" type="float" value="0.99902344"/>
                 </node>
             </children>
         </node>
